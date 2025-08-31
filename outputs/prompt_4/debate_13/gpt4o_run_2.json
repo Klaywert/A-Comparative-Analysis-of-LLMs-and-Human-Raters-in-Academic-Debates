@@ -1,0 +1,197 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat unclear and repetitive (-1)",
+            "Final remarks were more structured and clear (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of copyright infringement effectively (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about AI threatening monotonous jobs was logical (+2)",
+            "Struggled to clearly articulate the argument about copyright infringement (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Lacked persuasive language in initial argument (0)",
+            "Final remarks were more convincing (+1)",
+            "Did not effectively counter other debaters' points (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Responded to moderator's questions actively (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": [
+            "Adapted view on AI after hearing other debaters (+1)",
+            "Struggled to respond to counter-arguments (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated some research on AI and copyright issues (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed understanding of AI's impact on jobs (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 0,
+          "occurrences": [
+            "Initial arguments lacked coherence (-1)",
+            "Final remarks were more coherent (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a moderate understanding of the topic, with some clear points on AI's impact on jobs and copyright issues. However, the initial lack of clarity and coherence affected the overall performance. The debater improved towards the end, showing adaptability and a better structure in final remarks."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Opening statement was clear and well-structured (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Used the example of ChatGPT effectively (+2)",
+            "Provided a relevant example of deep fake (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Presented a balanced view of AI as a double-edged sword (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used persuasive language when discussing the need for regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in the open question session (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted arguments based on other debaters' points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated good preparation with examples and arguments (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Showed a strong understanding of AI's educational applications (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a coherent line of reasoning throughout (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated a strong understanding of the topic, with clear and well-structured arguments. The use of examples was effective, and the debater maintained coherence throughout. The performance was persuasive, particularly in discussing the need for regulation, and showed good engagement and adaptability."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Opening statement was clear and well-organized (+3)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used examples of AI in various fields effectively (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Presented a logical argument about the need for restrictions (+3)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Used persuasive language effectively when discussing regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged actively in the discussion and responded to others (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted arguments based on other debaters' points (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated thorough preparation with well-researched points (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Showed deep understanding of AI's societal impacts (+3)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 3,
+          "occurrences": [
+            "Maintained a coherent and logical flow throughout (+3)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 delivered a strong performance with clear and well-organized arguments. The debater demonstrated a deep understanding of the topic and used examples effectively. The arguments were logical and persuasive, and the debater showed good engagement and adaptability throughout the debate."
+      }
+    }
+  ]
+}

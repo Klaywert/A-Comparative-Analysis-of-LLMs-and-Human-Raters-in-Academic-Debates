@@ -1,0 +1,278 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear but lacked depth (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": []
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Provided a clear argument about the responsibility of AI developers (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": []
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated basic understanding of AI developer responsibilities (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent line of reasoning regarding developer responsibility (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 provided a clear argument regarding the responsibility of AI developers, showing a basic understanding of the topic. However, the overall engagement and use of examples were lacking, resulting in a moderate performance."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was clear but somewhat repetitive (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used personal experience as an example of AI in education (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Provided a logical argument about the use of AI in education (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": []
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated understanding of AI's role in education (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in discussing AI's educational impact (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used personal experience to illustrate points about AI in education, showing a good understanding of the topic. However, the overall engagement and adaptability were limited, resulting in a moderate performance."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was clear and well-structured (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Attempted to provide examples but struggled to articulate them clearly (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Provided a logical argument about the need for government intervention (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used rhetorical questions to engage the audience (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in the discussion and provided counterpoints (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted well to questions about government intervention (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's societal impact (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in discussing AI's societal impact (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed strong engagement and clarity in their arguments, particularly regarding government intervention in AI. While they struggled with providing clear examples, their overall performance was positive due to active participation and adaptability."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was clear but lacked depth (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": []
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Provided a logical argument about content responsibility (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": []
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a basic understanding of content responsibility (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in discussing content responsibility (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided a clear and logical argument about content responsibility, showing a basic understanding of the topic. However, the lack of examples and engagement limited their overall performance."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was clear and well-structured (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used examples of AI's impact on the workforce (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Provided a logical argument about AI's impact on employment (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used persuasive language to discuss AI's role in the workforce (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": []
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's impact on employment (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in discussing AI's impact on employment (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided clear and logical arguments about AI's impact on employment, using examples effectively. While their engagement was limited, their overall performance was positive due to strong organization and argumentation."
+      }
+    }
+  ]
+}

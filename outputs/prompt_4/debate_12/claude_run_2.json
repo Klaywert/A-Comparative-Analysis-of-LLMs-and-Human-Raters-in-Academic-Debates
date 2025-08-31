@@ -1,0 +1,359 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": -2,
+          "occurrences": [
+            "Initial statement was brief but clear about AI being irreversible (+1)",
+            "Response about responsibility was somewhat unclear and lacked structure (-1)",
+            "Final considerations were brief and somewhat disorganized (-2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Referenced a Netflix documentary to support argument about racist AI (+2)",
+            "Mentioned Stack Overflow as an alternative information source (+1)",
+            "Used example of semantic language study to explain complexity (+1)",
+            "Failed to provide concrete examples in several responses (-1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Made logical argument about AI reflecting society's data (+2)",
+            "Argument about democratization of knowledge was well-reasoned (+2)",
+            "Weak argumentation about platform responsibility (-1)",
+            "Failed to develop arguments fully in multiple instances (-2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": -1,
+          "occurrences": [
+            "Lacked rhetorical force in most interventions (-2)",
+            "Made some convincing points about information access (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated when called upon (+1)",
+            "Contributed to discussions about other debaters' points (+1)",
+            "Limited spontaneous participation (-1)",
+            "Engaged constructively with moderator's questions (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": [
+            "Responded adequately to direct questions (+1)",
+            "Failed to deeply engage with counterarguments (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": -1,
+          "occurrences": [
+            "Showed some knowledge of the topic (+1)",
+            "Lacked depth in research and examples (-2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated basic understanding of AI concepts (+1)",
+            "Showed limited depth in technical knowledge (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": -1,
+          "occurrences": [
+            "Maintained consistent position about AI regulation (+1)",
+            "Arguments sometimes lacked logical flow (-2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a basic understanding of AI topics but struggled with depth and articulation. While they made some valid points about AI reflecting societal biases and the democratization of knowledge, their arguments often lacked development and supporting evidence. Their participation was adequate but not particularly engaging, and they failed to demonstrate strong mastery of the subject matter. The debater would benefit from better preparation and more structured argumentation."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Well-structured initial statement about AI's limitless evolution (+2)",
+            "Clear explanation about educational use of AI (+2)",
+            "Sometimes rambled and lost focus in longer responses (-1)",
+            "Final statement about gaming was somewhat tangential (-1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 8,
+          "occurrences": [
+            "Used Bill Gates washing dishes as AI capability example (+2)",
+            "Provided example of manipulative social media tactics with three accounts (+3)",
+            "Referenced radiation discovery and regulation as historical parallel (+3)",
+            "Mentioned Hatsune Miku and vocaloids as relevant example (+2)",
+            "Used World of Warcraft bots example effectively (+2)",
+            "Failed to fully develop some examples (-1)",
+            "Some examples were overly complex (-1)",
+            "Referenced personal experience as someone with autism spectrum disorder (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 4,
+          "occurrences": [
+            "Strong argument about fake news propagation (+2)",
+            "Well-reasoned point about AI lacking human emotion (+2)",
+            "Good argument about the need for regulation (+2)",
+            "Sometimes arguments became convoluted (-1)",
+            "Failed to fully connect some points (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 3,
+          "occurrences": [
+            "Used personal experience effectively for persuasion (+2)",
+            "Made compelling case about societal control (+2)",
+            "Sometimes lost persuasive force due to complexity (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 5,
+          "occurrences": [
+            "Actively participated throughout the debate (+2)",
+            "Responded to multiple questions spontaneously (+2)",
+            "Built upon other debaters' arguments constructively (+2)",
+            "Sometimes dominated discussion time (-1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 3,
+          "occurrences": [
+            "Adapted well to different question topics (+2)",
+            "Built effectively on others' arguments (+2)",
+            "Sometimes struggled to stay focused on specific questions (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 4,
+          "occurrences": [
+            "Demonstrated extensive knowledge through varied examples (+3)",
+            "Showed understanding of historical precedents (+2)",
+            "Sometimes examples seemed tangential to main points (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Showed understanding of AI in art and creativity (+2)",
+            "Demonstrated knowledge of social implications (+2)",
+            "Sometimes lacked technical precision (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained consistent stance on regulation (+2)",
+            "Sometimes jumped between topics without clear connections (-2)",
+            "Arguments occasionally became circular (-1)",
+            "Final statement was somewhat disconnected from main debate (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated strong engagement and preparation, providing numerous relevant examples throughout the debate. They showed good understanding of AI's social implications and made compelling arguments about regulation and control. However, they sometimes struggled with coherence, jumping between topics and occasionally losing focus. Their use of personal experience added authenticity to their arguments. While knowledgeable and engaged, they would benefit from more structured presentation of ideas."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 7,
+          "occurrences": [
+            "Exceptionally clear and structured initial statement (+3)",
+            "Well-organized response about intellectual property (+3)",
+            "Clear structure in discussing censorship and precedents (+2)",
+            "Sometimes responses became overly lengthy (-1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 9,
+          "occurrences": [
+            "Excellent analogy comparing AI to electricity and internet (+3)",
+            "Used musical instruments as tool analogy effectively (+2)",
+            "Historical example about discrimination in 1300-1500 (+3)",
+            "Shoe manufacturing and industrial revolution analogy (+3)",
+            "Calculator and mathematical formulas example (+2)",
+            "Sometimes examples were overly elaborate (-1)",
+            "Failed to provide examples in some shorter responses (-1)",
+            "Twitter/X fact-checking example (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 8,
+          "occurrences": [
+            "Sophisticated argument about AI as a tool (+3)",
+            "Complex reasoning about censorship and precedents (+3)",
+            "Philosophical depth in discussing truth and power (+3)",
+            "Well-developed argument about art adaptation (+2)",
+            "Sometimes arguments became overly complex (-2)",
+            "Strong logical consistency throughout (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 6,
+          "occurrences": [
+            "Highly persuasive use of historical analogies (+3)",
+            "Effective rhetorical questions about who decides truth (+2)",
+            "Compelling argument about neutrality being a myth (+3)",
+            "Sometimes lost persuasive impact due to length (-2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 7,
+          "occurrences": [
+            "Consistently engaged throughout debate (+3)",
+            "Responded thoughtfully to others' points (+2)",
+            "Built constructively on previous arguments (+2)",
+            "Sometimes dominated discussion time (-1)",
+            "Actively participated in all major discussions (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 6,
+          "occurrences": [
+            "Excellently adapted arguments to different contexts (+3)",
+            "Responded thoughtfully to counterarguments (+2)",
+            "Built effectively on others' contributions (+2)",
+            "Sometimes responses were overly elaborate (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 7,
+          "occurrences": [
+            "Demonstrated extensive philosophical preparation (+3)",
+            "Showed deep understanding of historical contexts (+3)",
+            "Well-prepared arguments about multiple aspects (+2)",
+            "Sometimes over-prepared responses were too lengthy (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 8,
+          "occurrences": [
+            "Exceptional understanding of philosophical implications (+3)",
+            "Deep knowledge of AI's societal impact (+3)",
+            "Sophisticated grasp of power dynamics and truth (+3)",
+            "Sometimes philosophical depth overshadowed practical aspects (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 7,
+          "occurrences": [
+            "Maintained highly consistent philosophical framework (+3)",
+            "All arguments connected to central thesis of AI as tool (+3)",
+            "Logical flow throughout all interventions (+2)",
+            "Sometimes coherence was affected by response length (-1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 delivered an exceptional performance, demonstrating sophisticated understanding of AI's philosophical and societal implications. Their consistent framework of AI as a tool was well-maintained throughout, supported by excellent historical analogies and deep philosophical reasoning. They showed remarkable ability to connect different aspects of the debate to broader themes of power, truth, and human nature. While sometimes overly elaborate, their contributions significantly elevated the debate's intellectual level. Their mastery of the topic and ability to provide nuanced, thoughtful responses made them the strongest performer."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 5,
+          "occurrences": [
+            "Very clear and impactful opening statement (+3)",
+            "Well-structured response about responsibility (+2)",
+            "Clear organization in discussing AI development (+2)",
+            "Sometimes lost clarity in complex explanations (-1)",
+            "Final considerations were brief but clear (+1)",
+            "Occasionally incomplete thoughts (-2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 5,
+          "occurrences": [
+            "Pufferfish fear response as complexity analogy (+2)",
+            "Drake's AI-generated music example (+2)",
+            "Child motor skill development comparison (+2)",
+            "Could have used more concrete examples (-1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 6,
+          "occurrences": [
+            "Strong argument about pivotal moment in history (+3)",
+            "Logical reasoning about AI intelligence superiority (+2)",
+            "Well-reasoned point about creativity as combination (+2)",
+            "Sometimes arguments were incomplete (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 5,
+          "occurrences": [
+            "Compelling opening about historical significance (+3)",
+            "Persuasive argument about AI emotions (+2)",
+            "Effective use of urgency in arguments (+2)",
+            "Sometimes lacked follow-through (-2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 4,
+          "occurrences": [
+            "Participated actively when called upon (+2)",
+            "Contributed meaningful insights (+2)",
+            "Built on others' arguments effectively (+1)",
+            "Less spontaneous participation than others (-1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 4,
+          "occurrences": [
+            "Adapted well to different question angles (+2)",
+            "Responded thoughtfully to philosophical points (+2)",
+            "Built on previous speakers' ideas (+1)",
+            "Sometimes didn't fully develop responses (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 4,
+          "occurrences": [
+            "Showed good conceptual preparation (+2)",
+            "Demonstrated understanding of AI implications (+2)",
+            "Could have provided more supporting evidence (-1)",
+            "Well-prepared philosophical perspectives (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 5,
+          "occurrences": [
+            "Good understanding of AI's potential impact (+2)",
+            "Showed grasp of technical concepts (+2)",
+            "Understood philosophical implications (+2)",
+            "Sometimes lacked depth in technical details (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 4,
+          "occurrences": [
+            "Maintained consistent position on AI significance (+2)",
+            "Arguments generally followed logical progression (+2)",
+            "Sometimes thoughts were left incomplete (-1)",
+            "Good thematic consistency (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 made strong contributions with compelling arguments about AI's historical significance and potential impact on humanity. They demonstrated good conceptual understanding and philosophical depth, particularly in discussing AI consciousness and emotions. Their opening statement was particularly impactful, setting a serious tone for the debate. However, they participated less spontaneously than others and sometimes left arguments underdeveloped. While showing good mastery of concepts, they could have benefited from more concrete examples and fuller development of their interesting ideas."
+      }
+    }
+  ]
+}

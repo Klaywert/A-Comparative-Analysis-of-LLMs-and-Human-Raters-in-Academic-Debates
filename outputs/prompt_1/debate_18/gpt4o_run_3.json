@@ -1,0 +1,25 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on their understanding and articulation of the theme 'Generative AI and its impacts on society.' The criteria include: 1) Depth of Insight: How well the debater understands and explains the implications of generative AI. 2) Ethical Considerations: The ability to address ethical concerns related to AI. 3) Engagement: Responsiveness to the moderator's questions and interaction with other debaters. 4) Clarity and Coherence: The ability to present arguments clearly and logically. 5) Contribution to the Debate: Overall contribution to advancing the discussion.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 1 demonstrated a strong understanding of the potential positive and negative impacts of generative AI, particularly in terms of efficiency and job displacement. They effectively used personal experiences to illustrate their points. However, their responses occasionally lacked clarity, and they struggled to articulate their thoughts concisely. Their engagement with other debaters was constructive, and they contributed significantly to the discussion."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 2 provided insightful commentary on the ethical challenges of generative AI, particularly concerning misinformation and the need for responsible use. They engaged actively with the moderator's questions and other debaters, offering thoughtful counterpoints. Their arguments were generally clear and well-structured, contributing positively to the debate's depth."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 3 offered a balanced perspective on the ethical and practical aspects of generative AI, emphasizing the role of users in ethical AI use. While their points were valid, they occasionally lacked depth and specificity. Their engagement with the debate was consistent, and they provided valuable insights, though their contributions were less impactful compared to others."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 4 focused on the artistic and regulatory aspects of generative AI, highlighting the need for intergovernmental oversight. While they raised important points, their arguments were sometimes less coherent and lacked the depth seen in other debaters' contributions. Their engagement was moderate, and they provided a unique perspective, though their overall impact on the debate was limited."
+    }
+  ]
+}

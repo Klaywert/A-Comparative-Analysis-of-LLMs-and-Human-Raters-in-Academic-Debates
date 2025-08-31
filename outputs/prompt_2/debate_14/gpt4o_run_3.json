@@ -1,0 +1,94 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 6.8,
+      "scores": {
+        "organization_and_clarity": 6.5,
+        "use_of_examples": 6.0,
+        "argumentation": 7.0,
+        "persuasion": 6.5,
+        "engagement": 6.8,
+        "adaptability": 6.5,
+        "preparation": 7.0,
+        "mastery_of_the_topic": 6.5,
+        "coherence": 7.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 presented a clear concern about the dependency on AI, particularly in educational contexts. However, the arguments lacked depth and specific examples to strengthen the points. The debater showed a moderate level of engagement and coherence but could improve in persuasion and adaptability to new information."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.8,
+        "engagement": 7.5,
+        "adaptability": 7.5,
+        "preparation": 7.8,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used examples, such as the comparison to automobiles, to illustrate points about AI's potential benefits and risks. The arguments were well-structured and persuasive, showing a good understanding of the topic. The debater engaged actively with others and adapted well to the flow of the debate."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 6.9,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 6.5,
+        "argumentation": 7.0,
+        "persuasion": 6.8,
+        "engagement": 6.5,
+        "adaptability": 6.8,
+        "preparation": 7.0,
+        "mastery_of_the_topic": 6.8,
+        "coherence": 7.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided a balanced view on AI, emphasizing the need for correct usage. The arguments were coherent but could benefit from more specific examples and deeper engagement with opposing views. The debater showed a reasonable understanding of the topic but could improve in persuasion and adaptability."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.2,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.2,
+        "engagement": 7.0,
+        "adaptability": 7.0,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.2,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 focused on ethical concerns and the need for verification in AI usage. The arguments were well-reasoned and coherent, with a good level of engagement. The debater demonstrated a solid understanding of the topic and effectively addressed complex issues, though more examples could enhance the arguments."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.3,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.3,
+        "engagement": 7.5,
+        "adaptability": 7.2,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.3,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided a nuanced view on AI's impact on employment, using historical examples to support arguments. The debater was persuasive and engaged well with others, showing adaptability to different perspectives. The arguments were coherent and demonstrated a good understanding of the topic."
+      }
+    }
+  ]
+}

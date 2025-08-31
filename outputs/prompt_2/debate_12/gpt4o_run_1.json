@@ -1,0 +1,76 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 8.0,
+        "adaptability": 7.8,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.8,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a good understanding of the topic, particularly in the discussion about the societal reflection in AI outputs. However, the use of examples was limited, and the arguments could have been more structured. The debater engaged well with others and adapted to the flow of the debate, showing a reasonable level of preparation and coherence in their arguments."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 7.5,
+        "argumentation": 7.5,
+        "persuasion": 7.0,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 7.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 7.8
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided relevant examples, particularly in the context of AI in gaming and education. However, the arguments sometimes lacked clarity and structure. The debater was engaged and responsive, showing adaptability in discussions. There was room for improvement in preparation and the depth of topic mastery."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.5,
+      "scores": {
+        "organization_and_clarity": 8.5,
+        "use_of_examples": 8.0,
+        "argumentation": 9.0,
+        "persuasion": 8.8,
+        "engagement": 8.5,
+        "adaptability": 8.2,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.7,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 excelled in argumentation and persuasion, presenting well-structured and logical arguments. The debater effectively used examples and engaged actively with others, demonstrating a strong understanding of the topic. The adaptability and coherence of their arguments were notable, contributing to a high overall performance."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.5,
+        "persuasion": 8.0,
+        "engagement": 8.2,
+        "adaptability": 8.0,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.2,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided insightful arguments and demonstrated a good understanding of the topic. The use of examples was adequate, and the debater engaged well with others, showing adaptability and coherence in their responses. The arguments were persuasive and well-prepared, contributing to a strong overall performance."
+      }
+    }
+  ]
+}

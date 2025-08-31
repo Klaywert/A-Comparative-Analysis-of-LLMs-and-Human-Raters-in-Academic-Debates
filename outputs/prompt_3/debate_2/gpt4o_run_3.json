@@ -1,0 +1,166 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a balanced view on the use of AI in education and professional fields.",
+          "Concluded with a clear summary of the debate's nuances and the need for control."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of ChatGPT in education and professional fields to illustrate points."
+        ],
+        "strong_argumentation": [
+          "Argued that AI tools should guide learning rather than replace human effort."
+        ],
+        "active_engagement": [
+          "Engaged in the discussion about responsibility for harmful AI outputs."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's impact on education and professional fields."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed knowledge of AI's dual impact on society."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a clear understanding of the topic, effectively using examples and engaging actively in discussions. Their arguments were well-structured and balanced, showing good preparation and mastery of the subject."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated the role of AI in education and the importance of reporting its use."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI in educational settings to support arguments."
+        ],
+        "strong_argumentation": [
+          "Argued effectively for the responsible use of AI in education."
+        ],
+        "active_engagement": [
+          "Participated actively in the discussion about AI's role in education."
+        ],
+        "evident_preparation": [
+          "Showed understanding of AI's educational applications."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided clear and well-structured arguments, particularly regarding AI's role in education. They used relevant examples and demonstrated good preparation and engagement throughout the debate."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear argument about intellectual property and AI."
+        ],
+        "strong_argumentation": [
+          "Argued for the credit of original data creators in AI-generated content."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about intellectual property and AI regulation."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided clear arguments, particularly on intellectual property issues related to AI. They engaged actively in discussions, although their overall contribution was less comprehensive compared to others."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Discussed the philosophical and legal implications of AI clearly."
+        ],
+        "strong_argumentation": [
+          "Argued for the need for moderation in AI use."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about responsibility for AI-generated content."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's philosophical and legal challenges."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided well-structured arguments, particularly on the philosophical and legal aspects of AI. They engaged actively and demonstrated good preparation and understanding of the topic."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Discussed the societal impacts of AI clearly."
+        ],
+        "strong_argumentation": [
+          "Argued for the need to adapt evaluation processes in education due to AI."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about AI's impact on employment and regulation."
+        ],
+        "evident_preparation": [
+          "Showed understanding of AI's impact on society and employment."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided clear and well-structured arguments, particularly on the societal impacts of AI. They engaged actively and demonstrated good preparation and understanding of the topic."
+      }
+    }
+  ]
+}

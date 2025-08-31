@@ -1,0 +1,235 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly explained the potential risks of generative AI to creative professions.",
+          "Provided a structured response on the responsibility of offensive AI content."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI generating offensive images to discuss responsibility."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the dual responsibility of users and databases in AI content generation."
+        ],
+        "effective_persuasion": [
+          "Persuasively discussed the need for AI in education to generate questions rather than answers."
+        ],
+        "active_engagement": [
+          "Actively participated in discussions about AI's role in education and intellectual property."
+        ],
+        "high_adaptability": [
+          "Adapted arguments when discussing the role of AI in education and intellectual property."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge about AI's impact on creative professions and education."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed deep understanding of AI's potential risks and benefits in various sectors."
+        ],
+        "high_coherence": [
+          "Maintained a consistent argument about the dual nature of AI's impact on society."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated strong organization, clarity, and mastery of the topic. They effectively used examples and engaged actively in the debate, showing adaptability and preparation. Their arguments were coherent and persuasive, contributing significantly to the discussion."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated the pros and cons of AI in education and employment."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI in education to discuss its potential benefits and drawbacks."
+        ],
+        "strong_argumentation": [
+          "Presented a balanced view on AI's impact on jobs, comparing it to the industrial revolution."
+        ],
+        "effective_persuasion": [
+          "Persuasively argued for the need for teacher supervision when using AI in education."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about AI's role in education and its potential risks."
+        ],
+        "high_adaptability": [
+          "Adapted arguments when discussing the role of AI in education and employment."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge about AI's impact on education and employment."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's dual impact on society."
+        ],
+        "high_coherence": [
+          "Maintained a consistent argument about the dual nature of AI's impact on society."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided clear and organized arguments, effectively using examples to illustrate points. They engaged actively and adapted well to different topics, showing preparation and mastery of the subject. Their arguments were coherent and persuasive, contributing positively to the debate."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly explained the potential of AI to increase productivity."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI's impact on productivity to discuss its benefits."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the need for government regulation of AI."
+        ],
+        "effective_persuasion": [
+          "Persuasively discussed the potential societal impacts of AI."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about AI's role in productivity and regulation."
+        ],
+        "high_adaptability": [
+          "Adapted arguments when discussing the role of AI in productivity and regulation."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge about AI's impact on productivity and the need for regulation."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's potential benefits and regulatory needs."
+        ],
+        "high_coherence": [
+          "Maintained a consistent argument about the need for AI regulation."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated strong organization and clarity, effectively using examples to support their arguments. They engaged actively and adapted well to different topics, showing preparation and mastery of the subject. Their arguments were coherent and persuasive, contributing significantly to the debate."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated the potential benefits of AI for society."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI's impact on technology advancement to discuss its benefits."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the need for responsible AI use."
+        ],
+        "effective_persuasion": [
+          "Persuasively discussed the potential societal benefits of AI."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about AI's role in technology advancement."
+        ],
+        "high_adaptability": [
+          "Adapted arguments when discussing the role of AI in technology advancement."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge about AI's impact on technology advancement."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's potential benefits for society."
+        ],
+        "high_coherence": [
+          "Maintained a consistent argument about the benefits of AI."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided clear and organized arguments, effectively using examples to illustrate points. They engaged actively and adapted well to different topics, showing preparation and mastery of the subject. Their arguments were coherent and persuasive, contributing positively to the debate."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly explained the irreversible impact of AI on society."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI's impact on creative industries to discuss its benefits and drawbacks."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the need for careful AI regulation."
+        ],
+        "effective_persuasion": [
+          "Persuasively discussed the potential societal impacts of AI."
+        ],
+        "active_engagement": [
+          "Engaged in discussions about AI's role in creative industries and regulation."
+        ],
+        "high_adaptability": [
+          "Adapted arguments when discussing the role of AI in creative industries and regulation."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge about AI's impact on creative industries and the need for regulation."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's potential benefits and regulatory needs."
+        ],
+        "high_coherence": [
+          "Maintained a consistent argument about the need for AI regulation."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 demonstrated strong organization and clarity, effectively using examples to support their arguments. They engaged actively and adapted well to different topics, showing preparation and mastery of the subject. Their arguments were coherent and persuasive, contributing significantly to the debate."
+      }
+    }
+  ]
+}

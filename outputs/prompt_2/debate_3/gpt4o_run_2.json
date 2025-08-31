@@ -1,0 +1,94 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 8.0,
+        "engagement": 8.5,
+        "adaptability": 8.0,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 presented a balanced view on the impacts of AI, highlighting both positive and negative aspects. They effectively engaged with other debaters and responded well to questions, showing adaptability. However, their use of examples could have been more specific to strengthen their arguments."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.8,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided a clear stance on the need for regulation of AI, emphasizing its potential benefits and risks. They engaged actively in the debate, but their arguments could have been supported with more concrete examples. Their adaptability was evident in their responses to other debaters' comments."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.9,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 7.8,
+        "engagement": 8.0,
+        "adaptability": 7.8,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 focused on the creative potential of AI, providing a positive outlook on its future applications. They demonstrated good engagement and coherence in their arguments. However, their use of examples was somewhat limited, and they could have explored the topic more deeply."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 8.2,
+      "scores": {
+        "organization_and_clarity": 8.5,
+        "use_of_examples": 8.0,
+        "argumentation": 8.5,
+        "persuasion": 8.2,
+        "engagement": 8.0,
+        "adaptability": 8.0,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.5,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided a well-structured argument emphasizing the need for regulation and the ethical considerations of AI. They used relevant examples and engaged effectively with other debaters. Their mastery of the topic was evident, and they maintained coherence throughout the debate."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 8.0,
+        "engagement": 8.5,
+        "adaptability": 8.0,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 highlighted the dual nature of AI as both beneficial and potentially harmful. They engaged well with other debaters and showed adaptability in their responses. Their arguments were clear, but they could have been strengthened with more detailed examples."
+      }
+    }
+  ]
+}

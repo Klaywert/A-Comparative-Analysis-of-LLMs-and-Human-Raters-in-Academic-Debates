@@ -1,0 +1,138 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [
+          "Used the example of deep fakes to illustrate potential problems with generative AI."
+        ],
+        "strong_argumentation": [],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in the discussion about responsibility for harmful AI content."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [
+          "Struggled to respond to Debater 2's question about user responsibility."
+        ],
+        "ineffective_persuasion": [],
+        "passive_engagement": [
+          "Did not participate in the final round of questions."
+        ],
+        "low_adaptability": [
+          "Had difficulty adapting to the question about user responsibility."
+        ],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed active engagement and used relevant examples but struggled with adaptability and argumentation when faced with unexpected questions."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [],
+        "strong_argumentation": [
+          "Presented a balanced view on the use of generative AI in education."
+        ],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in the discussion about the educational use of AI."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated strong argumentation and active engagement, particularly in discussions about education, but did not show significant adaptability or use of examples."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [],
+        "strong_argumentation": [
+          "Argued effectively about intellectual property rights concerning AI-generated content."
+        ],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Participated actively in discussions about responsibility and intellectual property."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed strong argumentation and active engagement, especially in discussions about intellectual property, but did not provide many examples or show adaptability."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [
+          "Used the example of artists being affected by AI to support arguments."
+        ],
+        "strong_argumentation": [],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in discussions about the impact of AI on jobs and responsibility."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 effectively used examples and engaged actively in discussions, particularly about the impact of AI on jobs, but did not demonstrate significant adaptability or preparation."
+      }
+    }
+  ]
+}

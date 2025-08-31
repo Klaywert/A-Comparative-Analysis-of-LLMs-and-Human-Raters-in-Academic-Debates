@@ -1,0 +1,30 @@
+{
+  "evaluation_criteria": "The evaluation is based on five comprehensive criteria tailored to the debate theme 'Generative AI and its impacts on society': 1) ARGUMENTATION QUALITY (3 points) - Clarity, coherence, logical structure, and depth of arguments presented; 2) CONTENT KNOWLEDGE (2 points) - Understanding of AI concepts, awareness of current issues, and accuracy of information presented; 3) CRITICAL THINKING (2 points) - Ability to analyze multiple perspectives, identify nuances, and demonstrate balanced reasoning about AI's societal impacts; 4) ENGAGEMENT & RESPONSIVENESS (2 points) - Active participation in discussions, meaningful responses to moderator questions, and constructive engagement with other debaters' points; 5) COMMUNICATION SKILLS (1 point) - Articulation, vocabulary usage, and ability to express complex ideas clearly in Portuguese. Total possible score: 10 points.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 6.5,
+      "performance_evaluation": "Debater 1 demonstrated moderate performance with basic but coherent arguments. STRENGTHS: Showed balanced perspective acknowledging both positive and negative AI impacts; provided reasonable response on responsibility attribution; demonstrated understanding of historical technological disruption patterns when discussing job displacement. WEAKNESSES: Arguments lacked depth and specificity; minimal use of concrete examples; limited engagement with other debaters' points; superficial treatment of complex issues like AI in education. Their response about responsibility being primarily on users showed limited understanding of systemic issues. Final statement was generic without meaningful synthesis of debate points. Argumentation: 2/3; Knowledge: 1.5/2; Critical Thinking: 1.5/2; Engagement: 1/2; Communication: 0.5/1."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 5.5,
+      "performance_evaluation": "Debater 2 showed basic understanding but limited depth throughout the debate. STRENGTHS: Recognized AI's potential for automation; acknowledged reliability issues with AI-generated information; suggested need for limits in educational contexts. WEAKNESSES: Extremely brief responses lacking elaboration; failed to engage meaningfully with complex questions; no participation in discussions of others' responses; oversimplified treatment of responsibility and intellectual property issues. Response on educational use was particularly underdeveloped, missing opportunity to explore pedagogical implications. Final statement merely repeated initial position without evolution. Argumentation: 1.5/3; Knowledge: 1/2; Critical Thinking: 1/2; Engagement: 1/2; Communication: 1/1."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 3 delivered the strongest performance with nuanced and thoughtful contributions. STRENGTHS: Demonstrated sophisticated understanding of AI complexities; excellent point about algorithmic bias stemming from training data; thoughtful intellectual property analysis comparing to public domain works; balanced view on regulation needs; distinguished between AI as tool versus sentient intelligence. Actively engaged with others' responses, adding valuable perspectives. WEAKNESSES: Could have provided more concrete examples; missed opportunity to elaborate on certain points; slightly abstract at times. Their contribution on platform responsibility and fact-checking showed good awareness of current solutions. Argumentation: 2.5/3; Knowledge: 2/2; Critical Thinking: 2/2; Engagement: 1.5/2; Communication: 0.5/1."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 6.0,
+      "performance_evaluation": "Debater 4 showed adequate performance with focus on educational impacts. STRENGTHS: Clear concern about critical thinking development in students; reasonable approach to content filtering for misinformation; understood need for regulation in educational contexts. WEAKNESSES: Limited participation beyond assigned question; narrow focus primarily on educational aspects; missed broader societal implications; response on misinformation was somewhat simplistic, not addressing technical feasibility of extensive filtering. Did not engage with others' points or contribute to open discussion. Final statement was brief and added little new insight. Argumentation: 2/3; Knowledge: 1/2; Critical Thinking: 1.5/2; Engagement: 0.5/2; Communication: 1/1."
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 6.5,
+      "performance_evaluation": "Debater 5 demonstrated good understanding with emphasis on balance and collaboration. STRENGTHS: Thoughtful response on human-AI collaboration in workplace; acknowledged economic incentives for AI adoption; recognized need for professional oversight; understood AI's current limitations regarding subjectivity. Good awareness of need for equilibrium between extremes. WEAKNESSES: Some difficulty articulating ideas clearly (forgot words mid-sentence); limited engagement with other topics beyond employment; could have explored power dynamics and public intervention more deeply. Final statement, while acknowledging personal stake in AI field, lacked substantive synthesis. Argumentation: 2/3; Knowledge: 1.5/2; Critical Thinking: 1.5/2; Engagement: 1/2; Communication: 0.5/1."
+    }
+  ]
+}

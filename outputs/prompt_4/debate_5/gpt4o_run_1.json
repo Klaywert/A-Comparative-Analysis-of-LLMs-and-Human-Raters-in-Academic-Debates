@@ -1,0 +1,315 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear but lacked depth (+1)",
+            "Final opinion was concise but lacked detailed explanation (0)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used historical example of factory machines to illustrate point (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about user responsibility was logical but not fully developed (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Tone was neutral and lacked persuasive elements (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in discussion about job creation and destruction (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to questions with relevant points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated basic understanding but lacked depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Showed general knowledge but lacked specific insights (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a basic understanding of the topic with some clear points and relevant examples. However, the arguments lacked depth and persuasive elements. Engagement was moderate, and the debater maintained a consistent viewpoint."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was clear but repetitive (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": [
+            "Did not provide specific examples (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about imposing limits was logical but not fully explored (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Lacked persuasive language and techniques (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated in discussions and provided comments (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to questions with relevant points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated basic understanding but lacked depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Showed general knowledge but lacked specific insights (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided clear but repetitive statements and engaged in discussions. The arguments were logical but lacked depth and persuasive elements. The debater showed a basic understanding of the topic."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was clear and structured (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used example of social media algorithms to illustrate point (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Provided logical arguments about user responsibility and data sources (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a confident tone but lacked rhetorical techniques (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in discussions and provided comments (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted well to questions and provided relevant responses (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a good understanding of the topic (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed a good understanding of the topic with some insights (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a coherent line of reasoning throughout (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided clear and structured statements with logical arguments. The debater actively participated in discussions and adapted well to questions. The performance was strong, with a good understanding of the topic and coherent reasoning."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was clear but lacked depth (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": [
+            "Did not provide specific examples (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about filtering information was logical but not fully explored (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Lacked persuasive language and techniques (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated in discussions and provided comments (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to questions with relevant points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated basic understanding but lacked depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Showed general knowledge but lacked specific insights (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided clear statements and engaged in discussions. The arguments were logical but lacked depth and persuasive elements. The debater showed a basic understanding of the topic."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear but lacked depth (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": [
+            "Did not provide specific examples (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about collaboration with AI was logical but not fully explored (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Lacked persuasive language and techniques (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated in discussions and provided comments (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to questions with relevant points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated basic understanding but lacked depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Showed general knowledge but lacked specific insights (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided somewhat clear statements and engaged in discussions. The arguments were logical but lacked depth and persuasive elements. The debater showed a basic understanding of the topic."
+      }
+    }
+  ]
+}

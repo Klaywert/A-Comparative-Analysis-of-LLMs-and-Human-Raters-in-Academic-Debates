@@ -1,0 +1,25 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on the following criteria: 1) Relevance and depth of arguments related to the theme 'Generative AI and its impacts on society'; 2) Ability to respond to the moderator's questions with clarity and insight; 3) Engagement in the debate, including the ability to counter-argue and build upon others' points; 4) Originality and creativity in presenting ideas; 5) Overall contribution to the debate's progression and understanding of the topic.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 1 raised important concerns about the misuse of generative AI, particularly in the context of deep fakes. However, their arguments lacked depth and exploration of potential solutions. They were less engaged in counter-arguing and did not provide a strong stance in the group question. Their performance was solid but could benefit from more detailed analysis and engagement."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 2 provided a balanced view of generative AI, acknowledging both its benefits and potential drawbacks. They effectively highlighted the importance of effort in education and the risks of over-reliance on AI. Their engagement was consistent, and they offered thoughtful counterpoints. However, their arguments could have been more detailed in addressing the complexities of AI regulation."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 3 demonstrated a strong understanding of the topic, effectively discussing both the positive and negative impacts of generative AI. They provided insightful comments on intellectual property and the potential societal impacts of AI misuse. Their engagement was proactive, and they contributed significantly to the debate's depth. Their performance was well-rounded and informative."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 4 agreed with many points raised by others but lacked originality in their arguments. They highlighted the impact of AI on artists, which was a valuable contribution, but their overall engagement and depth of analysis were limited. They participated in the group question but did not provide a strong individual perspective. Their performance was adequate but could be improved with more active participation and unique insights."
+    }
+  ]
+}

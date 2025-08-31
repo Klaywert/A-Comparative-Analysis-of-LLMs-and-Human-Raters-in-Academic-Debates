@@ -1,0 +1,117 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear opinion on the ethical and market implications of AI."
+        ],
+        "strong_argumentation": [
+          "Argued that developers should be responsible for offensive AI outputs due to their role in machine learning and filtering."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's integration into daily life and its ethical implications."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial hesitation and lack of clarity when asked to express opinion on the topic."
+        ],
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments after initial response."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a good understanding of the topic and presented a strong argument regarding developer responsibility. However, there was a lack of engagement and clarity at the beginning, which affected overall performance."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "effective_use_of_examples": [
+          "Used personal experience with AI in education to illustrate points."
+        ],
+        "strong_argumentation": [
+          "Argued for the responsible use of AI in education, emphasizing the need for transparency."
+        ],
+        "active_engagement": [
+          "Engaged in discussion by agreeing with Debater 3 and adding to the argument about intellectual property."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial response was somewhat disorganized, with frequent pauses and filler words."
+        ],
+        "low_adaptability": [
+          "Did not respond to Debater 3's counterpoint about age-appropriate use of AI."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used examples and engaged with other debaters, but struggled with clarity and adaptability in responding to counterarguments."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated the need to discuss AI's limits and benefits."
+        ],
+        "strong_argumentation": [
+          "Presented a nuanced view on the use of AI in education, considering age differences."
+        ],
+        "active_engagement": [
+          "Actively participated in discussions, providing counterpoints and additional examples."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Demonstrated understanding of AI's potential risks and the need for government intervention."
+        ]
+      },
+      "negative_events": {
+        "ineffective_use_of_examples": [
+          "Struggled to provide specific examples when prompted by the moderator."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed strong engagement and understanding of the topic, effectively contributing to the discussion. However, there was a slight weakness in providing specific examples when needed."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly stated the responsibility of content creators in managing AI-generated content."
+        ],
+        "strong_argumentation": [
+          "Argued for the responsibility of content producers in the spread of misinformation."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage further in the discussion after initial response."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 presented clear and strong arguments but lacked engagement in the broader discussion, limiting their overall impact."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "positive_events": {
+        "strong_argumentation": [
+          "Argued that AI will complement rather than replace skilled professionals."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's impact on the job market."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments after initial response."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided a well-prepared argument about AI's role in the workforce but did not engage further in the debate, which limited their contribution."
+      }
+    }
+  ]
+}

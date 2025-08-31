@@ -1,0 +1,76 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.2,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 8.5,
+        "argumentation": 8.0,
+        "persuasion": 8.0,
+        "engagement": 8.5,
+        "adaptability": 8.0,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a strong understanding of the topic, using relevant examples such as the impact of AI on employment. Their arguments were well-structured and coherent, showing good preparation. They engaged actively, providing counterpoints and agreeing with others when necessary. However, their persuasion could be improved by using more varied rhetorical techniques."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided logical arguments and showed a good understanding of the topic. They highlighted the dual nature of AI impacts but could have used more specific examples to strengthen their points. Their engagement was consistent, though they could improve adaptability by responding more dynamically to others' points."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.9,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 7.8,
+        "engagement": 7.9,
+        "adaptability": 7.8,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed a solid grasp of the topic, discussing the importance of data in AI development. Their arguments were coherent and well-prepared, though they could benefit from more persuasive language. They engaged well with the debate, offering insights into the dual nature of AI."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.6,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 expressed a balanced view of AI, acknowledging both its potential and risks. Their arguments were clear but could be enhanced with more detailed examples. They engaged well, particularly in the final discussion, showing adaptability by reconsidering their stance on platform responsibility."
+      }
+    }
+  ]
+}

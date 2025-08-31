@@ -1,0 +1,313 @@
+{
+  "debaters": [
+    {
+      "name": "DEBATER1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Initial statement was well-structured presenting both positive and negative aspects clearly (+2)",
+            "Response about responsibility was somewhat disorganized, mixing platform and developer responsibilities (-1)",
+            "Added clarification about platforms was clear and well-structured (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Used Reddit forum example to clarify platform responsibility (+2)",
+            "Mentioned Twitter and Instagram verification badges as concrete examples (+2)",
+            "Failed to provide examples in initial statement (-1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Presented balanced argument about AI's dual nature (+2)",
+            "Logical reasoning about platform responsibility differentiation (+2)",
+            "Weak argumentation about developer responsibility, lacking depth (-2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Used metaphor 'double-edged sword' effectively (+1)",
+            "Final statement lacked conviction and persuasive power (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 3,
+          "occurrences": [
+            "Actively clarified his position about platforms (+2)",
+            "Contributed with relevant information about social media verification (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Successfully adapted and clarified his platform responsibility stance (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Showed knowledge of social media verification systems (+2)",
+            "Initial response lacked depth suggesting limited preparation (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated understanding of AI's positive and negative aspects (+1)",
+            "Knowledge appeared superficial in several areas (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained consistent position throughout debate (+2)",
+            "Some inconsistency in platform responsibility argument initially (0)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER1 showed a moderate performance with clear strengths in providing examples and maintaining engagement. While demonstrating basic understanding of AI's dual nature, the debater struggled with depth of argumentation and persuasive power. The ability to clarify positions when challenged was positive, but overall mastery of the topic remained superficial. The debater's contributions were relevant but lacked the analytical depth expected in a comprehensive debate on AI's societal impacts."
+      }
+    },
+    {
+      "name": "DEBATER2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 5,
+          "occurrences": [
+            "Initial statement was very well-organized with clear positive and negative points (+3)",
+            "Response about education was clearly structured with multiple perspectives (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 6,
+          "occurrences": [
+            "Used car/driver analogy effectively to explain user responsibility (+2)",
+            "Mentioned deepfakes and voice generation as concrete problems (+2)",
+            "Referenced academic papers and professor practices (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 7,
+          "occurrences": [
+            "Strong logical argument about user creativity in breaking systems (+3)",
+            "Well-reasoned position on government regulation balance (+2)",
+            "Solid philosophical argument about AI never replacing human essence (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 4,
+          "occurrences": [
+            "Effectively used analogy to persuade about user responsibility (+2)",
+            "Persuasive argument about freedom vs regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 5,
+          "occurrences": [
+            "Actively participated in multiple discussions (+2)",
+            "Built upon others' arguments constructively (+2)",
+            "Acknowledged limitations of current technology (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 3,
+          "occurrences": [
+            "Responded well to moderator's education question (+2)",
+            "Acknowledged and agreed with counter-points about AI limitations (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 4,
+          "occurrences": [
+            "Demonstrated knowledge of current AI capabilities and limitations (+2)",
+            "Referenced specific academic developments (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 5,
+          "occurrences": [
+            "Showed deep understanding of AI's technical limitations (+2)",
+            "Demonstrated philosophical understanding of AI vs human nature (+3)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 6,
+          "occurrences": [
+            "Maintained consistent position throughout debate (+3)",
+            "All arguments connected logically to main thesis (+3)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER2 delivered a strong performance, demonstrating comprehensive understanding of AI's societal impacts. The debater excelled in organization, argumentation quality, and coherence, presenting well-structured arguments supported by relevant examples and analogies. Particularly impressive was the philosophical depth regarding AI's limitations and the balanced view on regulation. The debater showed excellent engagement and ability to build upon others' points while maintaining a consistent, well-reasoned position throughout the debate."
+      }
+    },
+    {
+      "name": "DEBATER3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 4,
+          "occurrences": [
+            "Initial statement was well-organized with personal experience leading to analysis (+2)",
+            "Response about intellectual property was somewhat unclear and indecisive (-1)",
+            "Final statement was very clear and well-structured (+3)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 7,
+          "occurrences": [
+            "Used TikTok voice example effectively (+2)",
+            "Mentioned ChatGPT as personal learning experience (+1)",
+            "Used Instagram policy example for content filtering (+2)",
+            "Used music cover analogy for intellectual property (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Strong argument about human authenticity and emotions (+3)",
+            "Weak argumentation on intellectual property, admitted uncertainty (-2)",
+            "Good logical reasoning about educational guidelines (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 4,
+          "occurrences": [
+            "Persuasive argument about AI's inability to convey human emotions (+2)",
+            "Effective advocacy for proper AI use in education (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 6,
+          "occurrences": [
+            "Actively participated in multiple discussions (+2)",
+            "Built upon others' points about filters and guidelines (+2)",
+            "Contributed to discussion about user responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Struggled with intellectual property question, showing uncertainty (-2)",
+            "Adapted well to build on others' points about platforms (+2)",
+            "Successfully connected ideas from different speakers (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed good understanding of platform policies (+2)",
+            "Lacked preparation on intellectual property issues (-1)",
+            "Demonstrated knowledge of educational applications (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Good understanding of AI's limitations regarding human elements (+2)",
+            "Limited knowledge on intellectual property aspects (-1)",
+            "Strong grasp of educational implications (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 5,
+          "occurrences": [
+            "Maintained consistent position about human uniqueness (+3)",
+            "Connected various points coherently in final statement (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER3 showed a good overall performance with particular strengths in providing examples and maintaining engagement. The debater effectively used personal experience and concrete examples to support arguments, especially regarding human authenticity and AI's limitations. While showing uncertainty on intellectual property issues, the debater compensated with strong contributions on educational aspects and human-AI distinctions. The final statement was particularly strong, synthesizing key points coherently and advocating for responsible AI use with appropriate guidelines."
+      }
+    },
+    {
+      "name": "DEBATER4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was reasonably clear about job replacement and copyright (+1)",
+            "Response about content responsibility was somewhat disorganized (-1)",
+            "Final statement showed confusion with verbal fillers and lost train of thought (-1)",
+            "Clear explanation about AI detection technology (+3)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 4,
+          "occurrences": [
+            "Mentioned Industrial Revolution as historical parallel (+2)",
+            "Used example of organic bots mimicking real profiles (+2)",
+            "Referenced specific forum discussion from Santa Catarina (+2)",
+            "Failed to provide concrete examples in some responses (-2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Good argument about database bias perpetuating discrimination (+2)",
+            "Strong point about cat-and-mouse game with bot detection (+3)",
+            "Weak argumentation when uncertain about responsibility (-2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Lacked conviction in several responses (-1)",
+            "Made good point about question quality over answer quality (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 7,
+          "occurrences": [
+            "Actively challenged others' points about AI detection (+2)",
+            "Contributed to multiple discussions (+2)",
+            "Added nuance about Twitter's community notes system (+2)",
+            "Engaged with database bias discussion (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Admitted uncertainty when unsure about responsibility (+1)",
+            "Successfully built upon others' points about bot evolution (+2)",
+            "Struggled to formulate clear response under pressure (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 3,
+          "occurrences": [
+            "Showed knowledge of specific cases and forums (+2)",
+            "Demonstrated understanding of technical aspects (+2)",
+            "Some responses showed lack of depth in preparation (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Good technical understanding of AI training and databases (+2)",
+            "Showed knowledge of bot evolution and detection challenges (+2)",
+            "Limited depth in some areas like legal responsibility (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained consistent concern about copyright throughout (+2)",
+            "Final statement lost coherence with incomplete thoughts (-2)",
+            "Some responses lacked logical flow (-1)",
+            "Connected database recycling issue coherently (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER4 showed mixed performance with notable strengths in engagement and technical understanding, but weaknesses in clarity and coherence. The debater actively participated and challenged others' points effectively, showing good knowledge of technical aspects like bot evolution and database issues. However, struggled with articulation at times, particularly in the final statement, and showed uncertainty in some areas. The debater's focus on copyright and database ethics was consistent but sometimes lacked depth in argumentation. Overall, showed promise but needed better organization and confidence in delivery."
+      }
+    }
+  ]
+}

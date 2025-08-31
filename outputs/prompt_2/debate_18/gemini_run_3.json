@@ -1,0 +1,76 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.9,
+      "scores": {
+        "organization_and_clarity": 8.5,
+        "use_of_examples": 9.5,
+        "argumentation": 9.0,
+        "persuasion": 9.0,
+        "engagement": 8.8,
+        "adaptability": 8.5,
+        "preparation": 9.0,
+        "mastery_of_the_topic": 9.2,
+        "coherence": 9.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 delivered a highly effective and well-rounded performance. From the outset, they presented a balanced view of Generative AI..."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.7,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 8.5,
+        "argumentation": 8.8,
+        "persuasion": 8.7,
+        "engagement": 9.2,
+        "adaptability": 8.9,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.7,
+        "coherence": 8.6
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 presented a passionate and ethically-driven performance, consistently highlighting the moral challenges posed by Generative AI..."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.9,
+      "scores": {
+        "organization_and_clarity": 8.8,
+        "use_of_examples": 8.5,
+        "argumentation": 9.0,
+        "persuasion": 8.9,
+        "engagement": 8.7,
+        "adaptability": 9.0,
+        "preparation": 9.0,
+        "mastery_of_the_topic": 9.1,
+        "coherence": 9.2
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 delivered an exceptionally balanced and insightful performance, often acting as a synthesiser of different viewpoints..."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.6,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.8,
+        "persuasion": 7.5,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 7.8,
+        "mastery_of_the_topic": 7.7,
+        "coherence": 7.6
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 presented a performance with clear positions, particularly on the role of AI in art and the need for regulation..."
+      }
+    }
+  ]
+}

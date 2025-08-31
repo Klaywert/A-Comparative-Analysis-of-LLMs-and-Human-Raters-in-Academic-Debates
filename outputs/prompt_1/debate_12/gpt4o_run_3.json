@@ -1,0 +1,25 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on their understanding and articulation of the theme 'Generative AI and its impacts on society'. The criteria include: 1) Depth of Understanding: How well the debater understands the complexities and nuances of generative AI. 2) Argumentation: The ability to present coherent, logical, and persuasive arguments. 3) Engagement: Responsiveness to the moderator's questions and interaction with other debaters. 4) Originality: The introduction of unique perspectives or insights. 5) Clarity: The ability to communicate ideas clearly and effectively.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 1 demonstrated a good understanding of the societal implications of generative AI, particularly in terms of regulation and ethical considerations. However, their arguments were sometimes less developed compared to others, and they could have engaged more with the points raised by fellow debaters. Their responses were clear but lacked depth in some areas."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 2 provided insightful comments on the potential misuse of AI and the ethical responsibilities of developers and users. They effectively engaged with the moderator's questions and other debaters' points, showing a strong grasp of the topic. Their arguments were well-structured, though occasionally they could have expanded more on their points."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 9.0,
+      "performance_evaluation": "Debater 3 excelled in articulating the philosophical and societal dimensions of generative AI. They provided a comprehensive analysis of the implications of AI on truth and societal values, engaging deeply with the topic. Their arguments were original and well-supported, demonstrating a high level of understanding and clarity."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 4 offered a compelling perspective on the ethical and societal challenges posed by AI. They effectively highlighted the need for ethical considerations and the potential for AI to surpass human capabilities. Their engagement with other debaters was strong, and they provided clear and thoughtful responses, though at times their arguments could have been more concise."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear analogy comparing AI responsibility to firearm responsibility.",
+          "Structured argument about the potential dangers of AI replacing human jobs."
+        ],
+        "effective_use_of_examples": [
+          "Used personal experience as a graphic designer to illustrate AI's impact on job efficiency.",
+          "Provided a detailed example of using AI to complete a programming task faster."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the need for developers to anticipate misuse during AI development."
+        ],
+        "active_engagement": [
+          "Actively participated in discussions, responding to comments from other debaters."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge of AI tools like ChatGPT and Bard."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's dual impact on society, both positive and negative."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial confusion about the debate structure and questions."
+        ],
+        "low_adaptability": [
+          "Struggled to articulate thoughts clearly during the open question about government regulation."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a strong understanding of the topic and used personal examples effectively to support arguments. However, there were moments of confusion and difficulty in adapting to open-ended questions."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated concerns about ethical implications of AI."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of fake news and voice falsification to highlight ethical concerns."
+        ],
+        "strong_argumentation": [
+          "Presented a well-reasoned argument about the need for ethical considerations in AI use."
+        ],
+        "active_engagement": [
+          "Engaged actively in discussions, providing comments and counterpoints."
+        ],
+        "evident_preparation": [
+          "Demonstrated awareness of current issues related to AI and ethics."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Struggled to clearly articulate the point about multiple responsibilities in AI misuse."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively highlighted ethical concerns and engaged actively in the debate. However, there were moments where clarity in argumentation could have been improved."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear argument about the limitations of AI in creating original content."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the shared responsibility in AI misuse."
+        ],
+        "active_engagement": [
+          "Participated actively, providing insights and agreeing with other debaters' points."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's role in content creation and ethical implications."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Struggled to clearly explain the point about intellectual property and AI."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided insightful arguments and engaged well with others. However, there were moments where clarity in explaining complex ideas was lacking."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly articulated the need for regulation in AI-generated content."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the role of users in AI misuse."
+        ],
+        "active_engagement": [
+          "Engaged in discussions, providing counterpoints and additional insights."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's impact on art and content creation."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Struggled to clearly articulate the point about intergovernmental regulation."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided strong arguments and engaged actively in the debate. However, there were moments where clarity in explaining regulatory frameworks could have been improved."
+      }
+    }
+  ]
+}

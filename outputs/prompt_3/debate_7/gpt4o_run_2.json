@@ -1,0 +1,136 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [
+          "Used the example of deep fakes to illustrate potential problems with generative AI."
+        ],
+        "strong_argumentation": [],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in the discussion about responsibility for harmful AI content."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [
+          "Struggled to respond to Debater 2's question about user responsibility."
+        ],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [
+          "Had difficulty adapting to the question about user responsibility."
+        ],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 provided a relevant example of deep fakes to support their point, showing effective use of examples. However, they struggled with argumentation and adaptability when questioned about user responsibility, indicating areas for improvement."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [],
+        "strong_argumentation": [
+          "Presented a balanced view on the dual nature of generative AI, highlighting both positive and negative aspects."
+        ],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in the discussion about educational use of AI."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated strong argumentation by presenting a balanced view of generative AI's impacts. They actively engaged in discussions, particularly regarding the educational use of AI, showing a good level of participation."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [],
+        "strong_argumentation": [
+          "Supported the idea that generative AI can both aid and harm education."
+        ],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Participated in the discussion about intellectual property and AI."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided strong arguments regarding the dual impact of generative AI on education and engaged actively in discussions about intellectual property. Their contributions were logical and well-reasoned."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [],
+        "effective_use_of_examples": [],
+        "strong_argumentation": [
+          "Highlighted the potential job displacement caused by generative AI."
+        ],
+        "effective_persuasion": [],
+        "active_engagement": [
+          "Engaged in discussions about the responsibility for AI-generated content."
+        ],
+        "high_adaptability": [],
+        "evident_preparation": [],
+        "clear_mastery_of_the_topic": [],
+        "high_coherence": []
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [],
+        "ineffective_use_of_examples": [],
+        "weak_argumentation": [],
+        "ineffective_persuasion": [],
+        "passive_engagement": [],
+        "low_adaptability": [],
+        "lack_of_preparation": [],
+        "lack_of_mastery_of_the_topic": [],
+        "low_coherence": []
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 effectively argued about the potential negative impacts of generative AI on employment and actively participated in discussions about AI responsibility. Their arguments were clear and contributed meaningfully to the debate."
+      }
+    }
+  ]
+}

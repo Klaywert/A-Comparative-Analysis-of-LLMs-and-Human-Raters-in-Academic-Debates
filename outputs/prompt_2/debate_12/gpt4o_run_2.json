@@ -1,0 +1,76 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 presented a clear understanding of the topic, often referring to external sources like documentaries to support their arguments. However, their use of examples was limited, and they could have strengthened their points with more concrete evidence. Their argumentation was logical, but at times lacked depth. They engaged well with other debaters and adapted to the flow of the debate, showing good preparation and coherence in their thoughts."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 7.5,
+        "argumentation": 7.5,
+        "persuasion": 7.0,
+        "engagement": 7.8,
+        "adaptability": 7.2,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided relevant examples, particularly in the context of AI's impact on social media and education. Their arguments were generally well-structured, though sometimes lacked clarity and depth. They were persuasive in their delivery but could improve in engaging the audience more effectively. Their adaptability was moderate, as they sometimes struggled to respond to unexpected points raised by others."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.5,
+      "scores": {
+        "organization_and_clarity": 8.5,
+        "use_of_examples": 8.0,
+        "argumentation": 9.0,
+        "persuasion": 8.8,
+        "engagement": 8.5,
+        "adaptability": 8.5,
+        "preparation": 9.0,
+        "mastery_of_the_topic": 8.7,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated a strong command of the topic, with well-organized and coherent arguments. They effectively used examples to illustrate their points and engaged persuasively with the audience. Their adaptability was evident as they responded thoughtfully to other debaters' points. Their preparation and mastery of the topic were clear, making them a standout participant in the debate."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.5,
+        "persuasion": 8.0,
+        "engagement": 8.2,
+        "adaptability": 8.0,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided insightful arguments and demonstrated a good understanding of the topic. Their use of examples was adequate, though there was room for more detailed evidence. They were persuasive and engaged well with the debate, showing adaptability in their responses. Their preparation was evident, and they maintained coherence throughout their contributions."
+      }
+    }
+  ]
+}

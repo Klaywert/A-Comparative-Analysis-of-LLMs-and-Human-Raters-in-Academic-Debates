@@ -1,0 +1,30 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on their understanding and articulation of the theme 'Generative AI and its impacts on society', their ability to respond to the moderator's questions, the depth and originality of their arguments, their engagement with other debaters' points, and their ability to provide constructive feedback. The moderator's role in guiding the discussion is also considered, as it shapes the context in which debaters present their arguments.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 1 provided a balanced view on the pros and cons of generative AI, emphasizing the need for regulation and user responsibility. They effectively engaged with the moderator's questions and other debaters' comments, showing openness to different perspectives. However, their arguments could have been more detailed in exploring specific impacts of AI."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 2 demonstrated a strong understanding of the potential benefits and risks of generative AI, particularly in education and misinformation. They actively participated in discussions, providing thoughtful comments on others' responses. Their arguments were well-structured, though they could have included more examples to support their points."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 3 focused on the creative potential of generative AI and the importance of intellectual property. They contributed valuable insights into the artistic applications of AI but could have expanded on the societal impacts. Their engagement with other debaters was constructive, though their responses sometimes lacked depth."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 9.0,
+      "performance_evaluation": "Debater 4 provided a comprehensive analysis of the regulatory needs for AI and its societal implications. They effectively addressed the moderator's questions and engaged with other debaters, offering critical perspectives on AI's ethical considerations. Their arguments were well-rounded and supported by relevant examples."
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 5 highlighted the dual nature of AI as both a tool for productivity and a potential disruptor of jobs. They engaged well with the discussion, particularly in addressing the reliability of AI in different contexts. While their points were valid, they could have provided more specific examples to illustrate their arguments."
+    }
+  ]
+}

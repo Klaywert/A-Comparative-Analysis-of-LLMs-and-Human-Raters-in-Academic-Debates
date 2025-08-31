@@ -1,0 +1,25 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on their understanding and articulation of the theme 'Generative AI and its impacts on society.' The criteria include: 1) Depth of Insight: How well the debater understands the complexities of generative AI, including both its potential benefits and risks. 2) Relevance: The ability to stay on topic and address the questions posed by the moderator. 3) Engagement: Interaction with other debaters' points, including counterarguments and support. 4) Clarity: The ability to communicate ideas clearly and effectively. 5) Originality: Offering unique perspectives or solutions.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 1 demonstrated a good understanding of the risks associated with generative AI, particularly in the context of deep fakes. However, their responses lacked depth in exploring potential solutions or benefits of AI. They engaged with other debaters but showed uncertainty when challenged, which affected their clarity and confidence."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 2 provided a balanced view of generative AI, acknowledging both its benefits and risks. They effectively engaged with other debaters and offered a nuanced perspective on the need for regulation without stifling innovation. Their responses were clear and relevant, though they could have expanded more on specific examples."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 3 showed a good grasp of the dual nature of generative AI, agreeing with points made by others and adding insights on the impact on employment. However, their arguments were less developed, and they relied heavily on agreeing with others rather than presenting original ideas. Their engagement was moderate, with some insightful comments."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.8,
+      "performance_evaluation": "Debater 4 effectively highlighted the impact of generative AI on creative professions and the need for regulation. They engaged well with the discussion, providing relevant counterpoints and supporting arguments. Their clarity and ability to articulate their thoughts were strong, though they could have offered more original solutions."
+    }
+  ]
+}

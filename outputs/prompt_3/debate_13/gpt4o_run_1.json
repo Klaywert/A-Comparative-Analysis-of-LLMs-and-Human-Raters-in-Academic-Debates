@@ -1,0 +1,92 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear opinion on the potential threats of AI to jobs and copyright issues.",
+          "Concluded with a reflection on the positive uses of AI after the debate."
+        ],
+        "effective_use_of_examples": [
+          "Used the example of AI infringing on copyright by using unauthorized data."
+        ],
+        "strong_argumentation": [
+          "Argued that developers should be responsible for the data used by AI."
+        ],
+        "active_engagement": [
+          "Participated actively in the final reflections, showing a change in perspective."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Demonstrated understanding of AI's impact on jobs and copyright."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial statement was somewhat disorganized with repeated words and hesitations."
+        ],
+        "low_adaptability": [
+          "Did not engage in the open question discussion."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a good understanding of the topic and used relevant examples to support arguments. However, the initial presentation lacked clarity and organization. The debater demonstrated growth by reflecting on the debate and considering positive aspects of AI."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a balanced view of AI as a double-edged sword."
+        ],
+        "effective_use_of_examples": [
+          "Discussed the use of ChatGPT in education and the potential for deepfake misuse."
+        ],
+        "strong_argumentation": [
+          "Argued for the necessity of critical thinking in the age of AI."
+        ],
+        "active_engagement": [
+          "Engaged in the open question discussion about government regulation of AI."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Showed understanding of AI's role in education and societal impacts."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Responses were sometimes lengthy and could have been more concise."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided a well-rounded perspective on AI, using relevant examples and engaging actively in discussions. The debater's arguments were strong, though occasionally verbose. Overall, demonstrated a solid grasp of the topic."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a structured argument about the need for restrictions on AI."
+        ],
+        "effective_use_of_examples": [
+          "Used examples of AI in various fields to illustrate points."
+        ],
+        "strong_argumentation": [
+          "Argued for the shared responsibility of developers and platforms in AI misuse."
+        ],
+        "active_engagement": [
+          "Contributed to the discussion on AI regulation and intellectual property."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Demonstrated understanding of AI's potential and the need for regulation."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Some arguments were complex and could have been simplified for clarity."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 effectively communicated the need for AI regulation and shared responsibility. The debater used examples well and engaged actively in discussions. While some arguments were complex, the overall performance showed a strong understanding of the topic."
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was clear and concise (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used a historical example about technological evolution (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about user responsibility was logical (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion about job creation (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to the question about responsibility (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": []
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout the debate (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a clear understanding of the topic and maintained coherence in their arguments. They engaged well with the discussion, particularly in the context of job creation and user responsibility. However, their performance could be improved with more persuasive techniques and deeper preparation."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": []
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about imposing limits was logical (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion about educational use of AI (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to the question about educational use (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": []
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout the debate (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 showed a reasonable level of engagement and coherence in their arguments. They were able to respond to questions effectively, particularly regarding the educational use of AI. However, their performance could benefit from more structured arguments and the use of examples to strengthen their points."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used an example about social media algorithms (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Argument about responsibility in AI-generated content was logical (+1)",
+            "Argument about regulation was well-reasoned (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a rhetorical question effectively (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged in multiple discussions (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted well to the question about regulation (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated understanding of AI regulation (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout the debate (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated strong engagement and argumentation skills, particularly in discussions about AI regulation and responsibility. They used examples effectively and maintained coherence in their arguments. Their performance could be enhanced with more structured preparation and clarity."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": []
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about the impact on critical thinking was logical (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion about misinformation (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to the question about misinformation (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": []
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout the debate (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 showed a reasonable level of engagement and coherence in their arguments, particularly in discussions about misinformation and critical thinking. However, their performance could benefit from more structured arguments, the use of examples, and persuasive techniques."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat clear (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": []
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argument about job collaboration was logical (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion about job impacts (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to the question about job impacts (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": []
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": []
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint throughout the debate (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 demonstrated a reasonable level of engagement and coherence in their arguments, particularly in discussions about job impacts and collaboration. However, their performance could benefit from more structured arguments, the use of examples, and persuasive techniques."
+      }
+    }
+  ]
+}

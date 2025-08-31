@@ -1,0 +1,372 @@
+{
+  "debaters": [
+    {
+      "name": "DEBATER1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": -2,
+          "occurrences": [
+            "Initial statement lacked clear structure, jumping between ideas without transitions (-2)",
+            "Response to responsibility question was somewhat organized but could be clearer (+1)",
+            "Final statement was extremely brief and unclear (-1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used student example to illustrate AI dependency (+1)",
+            "Failed to provide concrete examples when discussing responsibility (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": -1,
+          "occurrences": [
+            "Made unsupported claim about people becoming too dependent without evidence (-1)",
+            "Argument about user responsibility lacked depth and nuance (-1)",
+            "Referenced another debater's point to support argument (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": -3,
+          "occurrences": [
+            "Lacked rhetorical techniques or persuasive language (-2)",
+            "Failed to elaborate or defend positions convincingly (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": -4,
+          "occurrences": [
+            "Did not comment on any other debater's responses (-2)",
+            "Gave single-word response 'Não' to final question showing minimal engagement (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": -2,
+          "occurrences": [
+            "Failed to adapt or expand arguments when given opportunities (-2)"
+          ]
+        },
+        "preparation_level": {
+          "score": -3,
+          "occurrences": [
+            "Showed minimal research or preparation on the topic (-2)",
+            "Lacked specific knowledge or data points (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": -3,
+          "occurrences": [
+            "Demonstrated superficial understanding of AI implications (-2)",
+            "Failed to address complexities of the topic (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": -1,
+          "occurrences": [
+            "Arguments lacked logical flow between points (-1)",
+            "Maintained basic consistency in position about dependency (0)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER1 showed a notably weak performance throughout the debate. Their contributions were minimal, superficial, and lacked engagement. The initial statement about AI dependency was underdeveloped and unsupported. When asked about responsibility for harmful AI content, they provided a simplistic answer without considering nuances. Most critically, they failed to engage with other debaters' points and gave a single-word response to the final question, demonstrating poor preparation and minimal investment in the debate. Overall performance suggests inadequate preparation and understanding of the topic's complexities."
+      }
+    },
+    {
+      "name": "DEBATER2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 5,
+          "occurrences": [
+            "Well-structured initial statement with clear progression of ideas (+2)",
+            "Organized response about educational use with clear reasoning (+2)",
+            "Clear structure in final statement with logical flow (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 8,
+          "occurrences": [
+            "Used construction/architecture software as concrete example (+2)",
+            "Referenced ChatGPT as specific current example (+2)",
+            "Excellent car analogy to explain responsibility concepts (+3)",
+            "Used traffic laws comparison effectively (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 6,
+          "occurrences": [
+            "Presented balanced view of benefits and risks (+2)",
+            "Strong logical reasoning about shared responsibility (+3)",
+            "Well-reasoned argument about AI as information source (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 4,
+          "occurrences": [
+            "Used effective analogies to persuade (+2)",
+            "Employed balanced rhetoric showing consideration of multiple viewpoints (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 6,
+          "occurrences": [
+            "Actively commented on multiple responses (+2)",
+            "Built upon other debaters' points constructively (+2)",
+            "Engaged substantively with different questions (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 5,
+          "occurrences": [
+            "Adapted arguments to build on others' points (+2)",
+            "Responded flexibly to different aspects of questions (+2)",
+            "Showed ability to reframe arguments using analogies (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 3,
+          "occurrences": [
+            "Demonstrated knowledge of current AI applications (+2)",
+            "Showed understanding of educational implications (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 4,
+          "occurrences": [
+            "Demonstrated understanding of AI's dual nature (+2)",
+            "Showed knowledge of practical applications (+1)",
+            "Understood complexity of responsibility issues (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 5,
+          "occurrences": [
+            "Maintained consistent position throughout debate (+2)",
+            "All arguments connected logically to main thesis (+2)",
+            "Coherent progression from initial to final statement (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER2 delivered the strongest performance in the debate, demonstrating excellent organization, engagement, and argumentation skills. They effectively used analogies (car/traffic laws) to explain complex concepts and maintained a balanced, nuanced perspective throughout. Their active participation in commenting on others' responses showed strong engagement, and they consistently built upon previous points while maintaining coherence. The debater showed good preparation and understanding of the topic, particularly in discussing educational applications and responsibility issues. Their ability to adapt arguments and use concrete examples made their contributions both accessible and persuasive."
+      }
+    },
+    {
+      "name": "DEBATER3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 0,
+          "occurrences": [
+            "Initial statement was brief but clear (+1)",
+            "Response about intellectual property was somewhat unclear (-1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Referenced war technology as historical example (+1)",
+            "Failed to provide specific examples in intellectual property response (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": -1,
+          "occurrences": [
+            "Made valid point about technology's dual nature (+1)",
+            "Intellectual property argument lacked depth and consideration of complexities (-2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": -2,
+          "occurrences": [
+            "Lacked persuasive language or rhetorical techniques (-1)",
+            "Failed to elaborate positions convincingly (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": -4,
+          "occurrences": [
+            "Did not comment on any other responses (-2)",
+            "Gave single-word response 'Não' to final question (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": -2,
+          "occurrences": [
+            "Failed to adapt or expand on initial positions (-2)"
+          ]
+        },
+        "preparation_level": {
+          "score": -2,
+          "occurrences": [
+            "Showed minimal evidence of research (-1)",
+            "Lacked specific knowledge about AI systems (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": -2,
+          "occurrences": [
+            "Demonstrated basic understanding only (+1)",
+            "Failed to grasp complexities of intellectual property in AI context (-3)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 0,
+          "occurrences": [
+            "Maintained basic consistency in position about proper use (+1)",
+            "Limited contributions made coherence assessment difficult (-1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER3 showed weak performance with minimal engagement and superficial understanding of the topic. While they made a valid initial point about technology's dual nature and the need for proper use, their subsequent contributions were limited and underdeveloped. The response about intellectual property showed misunderstanding of the complexities involved. Most concerning was the complete lack of engagement with other debaters and the single-word response to the final question. This suggests poor preparation and minimal investment in the debate process."
+      }
+    },
+    {
+      "name": "DEBATER4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Initial statement was somewhat organized (+1)",
+            "Response about responsibility showed some confusion with self-correction (-1)",
+            "Final statement was reasonably well-structured (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Mentioned deepfakes as specific example (+2)",
+            "Referenced fake news as concrete concern (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Made valid point about need for verification (+1)",
+            "Showed confusion in responsibility argument with self-correction (-1)",
+            "Presented reasoned argument about platform responsibility (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Used some examples to support points (+1)",
+            "Lacked strong rhetorical techniques (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": -2,
+          "occurrences": [
+            "Did not comment on others' responses (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": [
+            "Showed some confusion but attempted to correct position (+1)",
+            "Failed to build on others' contributions (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed awareness of current AI issues like deepfakes (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated understanding of ethical concerns (+1)",
+            "Showed some confusion about responsibility attribution (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained focus on ethical and verification themes (+2)",
+            "Some confusion in responsibility argument disrupted flow (-1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER4 showed moderate performance with some understanding of key issues but limited engagement. They demonstrated awareness of important concerns like deepfakes and fake news, and maintained focus on ethical considerations and the need for verification. However, their contribution was hampered by confusion during the responsibility question (with self-correction) and complete lack of engagement with other debaters' points. The final statement showed better organization and clarity, suggesting capability for stronger performance with better preparation and engagement."
+      }
+    },
+    {
+      "name": "DEBATER5",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 4,
+          "occurrences": [
+            "Well-organized initial statement acknowledging complexity (+2)",
+            "Clear structure in employment impact response (+2)",
+            "Organized final statement with logical progression (+1)",
+            "Some lack of clarity in algorithm responsibility discussion (-1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 4,
+          "occurrences": [
+            "Excellent bowling alley job example to illustrate job displacement (+3)",
+            "Used social media algorithms as example (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 5,
+          "occurrences": [
+            "Strong argument about historical precedent of job displacement (+2)",
+            "Well-reasoned position on government oversight balance (+2)",
+            "Logical argument about algorithm and user responsibility (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 3,
+          "occurrences": [
+            "Used historical analogy effectively (+2)",
+            "Employed balanced rhetoric about regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 4,
+          "occurrences": [
+            "Commented on intellectual property question (+2)",
+            "Responded to optional question showing engagement (+1)",
+            "Participated in responsibility discussion (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 3,
+          "occurrences": [
+            "Adapted to build on previous speakers' points (+2)",
+            "Responded thoughtfully to optional question (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 3,
+          "occurrences": [
+            "Showed understanding of regulatory issues (+1)",
+            "Demonstrated knowledge of job market impacts (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 4,
+          "occurrences": [
+            "Showed nuanced understanding of AI's societal impacts (+2)",
+            "Demonstrated grasp of regulatory balance needed (+1)",
+            "Understood complexity of intellectual property issues (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 4,
+          "occurrences": [
+            "Maintained consistent position on balanced approach (+2)",
+            "All arguments connected to central theme of careful consideration (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "DEBATER5 delivered a strong, thoughtful performance demonstrating nuanced understanding of AI's societal impacts. They effectively used historical analogies (bowling alley example) to illustrate points about job displacement and showed sophisticated thinking about regulatory balance. Their engagement was notably better than most participants, voluntarily answering the optional question and commenting on others' responses. The debater maintained a consistent, balanced perspective throughout, acknowledging both benefits and risks while avoiding extremes. Their final statement about societal fear and the need for understanding showed mature reflection on the topic."
+      }
+    }
+  ]
+}

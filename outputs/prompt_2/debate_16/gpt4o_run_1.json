@@ -1,0 +1,94 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 provided a clear stance on the responsibility of AI developers in cases of offensive content, showing a good understanding of the topic. However, the initial opinion lacked depth and examples. The arguments were logical but could benefit from more persuasive language and engagement with other debaters."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 7.5,
+        "argumentation": 7.5,
+        "persuasion": 7.0,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used personal examples to illustrate points about AI in education, showing practical understanding. However, the arguments were somewhat scattered, and the persuasion could be stronger. Engagement was good, but the mastery of the topic could be improved with more detailed insights."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.5,
+        "persuasion": 8.0,
+        "engagement": 8.5,
+        "adaptability": 8.0,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated strong argumentation skills and engaged actively with other debaters. The use of examples was relevant, though more could have been provided. The debater showed adaptability and a good grasp of the topic, though some points could be more clearly articulated."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.3,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 6.5,
+        "argumentation": 7.0,
+        "persuasion": 7.0,
+        "engagement": 7.5,
+        "adaptability": 7.0,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided a clear opinion on the responsibility of content creators but lacked depth in argumentation and examples. The engagement was moderate, and while the debater showed understanding of the topic, the arguments could be more persuasive and detailed."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.7,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 presented a well-structured argument about the impact of AI on employment, showing good preparation and understanding. The use of examples was effective, though the persuasion could be enhanced. Engagement was good, but the coherence of arguments could be improved."
+      }
+    }
+  ]
+}

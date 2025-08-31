@@ -1,0 +1,94 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 8.0,
+        "persuasion": 7.5,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 presented a balanced view on the impacts of AI, acknowledging both positive and negative aspects. The arguments were generally clear, though lacking in specific examples. The debater engaged well with the moderator's questions and other debaters' comments, showing good adaptability and coherence in responses. However, the lack of detailed examples and deeper exploration of the topic slightly affected the overall impact."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 6.5,
+        "argumentation": 7.5,
+        "persuasion": 7.0,
+        "engagement": 7.5,
+        "adaptability": 7.5,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided a straightforward perspective on AI's role in automation and education. While the arguments were logical, they lacked depth and specific examples to strengthen the points. The debater was engaged and responsive to questions, showing adaptability. However, the overall presentation could benefit from more structured arguments and a deeper understanding of the topic."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.5,
+        "persuasion": 8.0,
+        "engagement": 8.5,
+        "adaptability": 8.0,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated a strong understanding of the complexities surrounding AI, including issues of intellectual property and regulation. The arguments were well-structured and coherent, with good engagement in the discussion. The debater effectively responded to questions and provided insightful comments on others' responses, showing a good level of preparation and mastery of the topic."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.7,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.5,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 focused on the educational impacts of AI, highlighting the need for regulation. The arguments were clear but could have been enhanced with more specific examples. The debater engaged well with the discussion, showing adaptability and coherence in responses. Overall, the performance was solid, though it could benefit from deeper exploration of the topic."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.9,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.0,
+        "persuasion": 8.0,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided a balanced view on AI's impact on employment, emphasizing the need for collaboration between humans and AI. The arguments were well-organized and persuasive, with good use of examples. The debater engaged actively in the discussion and showed adaptability in responses. The performance was strong, with a good understanding of the topic and coherent arguments."
+      }
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear opinion on the responsibility of AI developers for offensive content."
+        ],
+        "strong_argumentation": [
+          "Argued logically that developers should be responsible for AI's offensive outputs."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI development and responsibility."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial response was hesitant and unclear about the opinion on the debate theme."
+        ],
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments after initial response."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a good understanding of the responsibility of AI developers but lacked engagement and clarity in initial responses."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "effective_use_of_examples": [
+          "Used personal experience with AI in education to illustrate points."
+        ],
+        "active_engagement": [
+          "Engaged in discussion by agreeing and adding to Debater 3's points."
+        ],
+        "evident_preparation": [
+          "Demonstrated knowledge of AI's role in education."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial response was somewhat disorganized with filler words."
+        ],
+        "low_adaptability": [
+          "Did not respond to Debater 3's counterpoint effectively."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used examples and engaged with others but struggled with clarity and adaptability in responses."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "strong_argumentation": [
+          "Presented a well-reasoned argument about the need for government intervention in AI."
+        ],
+        "active_engagement": [
+          "Actively participated in discussions and provided counterpoints."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Demonstrated understanding of AI's societal impacts and potential risks."
+        ]
+      },
+      "negative_events": {
+        "ineffective_use_of_examples": [
+          "Struggled to provide examples when prompted by the moderator."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed strong argumentation and engagement but could improve in providing concrete examples."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly stated the responsibility of content creators in AI-generated content."
+        ],
+        "strong_argumentation": [
+          "Argued effectively about the limits of developer responsibility."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage further after initial response."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided clear and strong arguments but lacked further engagement in the debate."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "positive_events": {
+        "strong_argumentation": [
+          "Presented a logical argument about AI's impact on employment."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Demonstrated understanding of AI's role in the workforce."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 showed strong understanding and argumentation but was passive in engagement beyond initial responses."
+      }
+    }
+  ]
+}

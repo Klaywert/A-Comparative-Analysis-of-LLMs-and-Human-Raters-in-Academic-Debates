@@ -1,0 +1,114 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Presented a clear opinion on the ethical and market implications of AI."
+        ],
+        "strong_argumentation": [
+          "Argued that developers should be responsible for offensive AI outputs."
+        ],
+        "evident_preparation": [
+          "Demonstrated understanding of AI's integration into daily life."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Initial hesitation and lack of clarity in expressing opinion."
+        ],
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a good understanding of the topic and presented a strong argument regarding developer responsibility. However, there was a lack of engagement and clarity in some parts of the debate."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "positive_events": {
+        "effective_use_of_examples": [
+          "Used personal experience with AI in education as an example."
+        ],
+        "active_engagement": [
+          "Engaged in discussion about intellectual property and AI."
+        ],
+        "evident_preparation": [
+          "Discussed both positive and negative impacts of AI in education."
+        ]
+      },
+      "negative_events": {
+        "poor_organization_and_clarity": [
+          "Struggled with clarity in initial opinion statement."
+        ],
+        "low_adaptability": [
+          "Did not respond to counterpoints from Debater 3."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used examples and engaged in discussions, showing preparation. However, there were issues with clarity and adaptability to counterarguments."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "positive_events": {
+        "strong_argumentation": [
+          "Argued for the need to set limits on AI use."
+        ],
+        "active_engagement": [
+          "Provided counterpoints to Debater 2's arguments."
+        ],
+        "clear_mastery_of_the_topic": [
+          "Discussed the balance of benefits and drawbacks of AI."
+        ]
+      },
+      "negative_events": {
+        "ineffective_use_of_examples": [
+          "Struggled to provide examples when prompted."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated strong argumentation and engagement, showing a clear understanding of the topic. However, there was a lack of effective examples in some instances."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "positive_events": {
+        "good_organization_and_clarity": [
+          "Clearly stated opinion on responsibility for AI-generated content."
+        ],
+        "strong_argumentation": [
+          "Argued for user responsibility in content creation."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 presented clear and strong arguments but lacked engagement in the broader discussion."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "positive_events": {
+        "strong_argumentation": [
+          "Discussed the impact of AI on job markets and the need for regulation."
+        ],
+        "evident_preparation": [
+          "Highlighted the potential dangers of unregulated AI."
+        ]
+      },
+      "negative_events": {
+        "passive_engagement": [
+          "Did not engage in further discussion or counterarguments."
+        ]
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 provided strong arguments and showed preparation, but there was a lack of engagement in the discussion."
+      }
+    }
+  ]
+}

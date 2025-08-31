@@ -1,0 +1,314 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 0,
+          "occurrences": [
+            "Initial opinion was somewhat clear but lacked structure (0)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used an example of students relying on AI for homework (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argued that users should be responsible for harmful AI outputs (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Did not effectively persuade the audience (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": -1,
+          "occurrences": [
+            "Did not engage in the open question round (-1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to the question about responsibility with a clear stance (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Showed basic understanding but lacked depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's societal impact (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 0,
+          "occurrences": [
+            "Maintained a consistent viewpoint but lacked depth (0)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed a basic understanding of the topic and provided some relevant examples. However, the arguments lacked depth and persuasion, and there was minimal engagement in the debate."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Presented a clear argument about the responsible use of AI in education (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of AI in education and research effectively (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Provided a well-reasoned argument about AI's role in education (+3)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Effectively persuaded the audience about the need for responsible AI use (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in discussions and responded to others (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted well to questions and provided thoughtful responses (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated good preparation with relevant examples and arguments (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Showed a good understanding of AI's impact on education (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a coherent line of reasoning throughout (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated strong argumentation skills and effectively used examples to support their points. They engaged actively and showed a good understanding of the topic, making a persuasive case for responsible AI use."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Provided a clear but simple argument about AI's utility (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 0,
+          "occurrences": [
+            "Did not use specific examples to support arguments (0)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argued for the responsible use of AI with a basic rationale (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Did not effectively persuade the audience (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": -1,
+          "occurrences": [
+            "Did not engage in the open question round (-1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": [
+            "Responded to questions with basic answers (0)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Showed basic preparation with limited depth (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's societal impact (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent viewpoint (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided a clear but basic argument about AI's utility. The lack of specific examples and limited engagement reduced the overall impact of their performance."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Presented a clear argument about the need for AI regulation (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used examples of deepfakes and fake news to illustrate points (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Argued for the ethical use of AI with logical reasoning (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Somewhat persuaded the audience about the need for regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in discussions and provided comments (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted to questions with relevant responses (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Showed preparation with relevant examples and arguments (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a good understanding of AI's ethical implications (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a coherent line of reasoning (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided a clear argument for the ethical use of AI, supported by relevant examples. They engaged in discussions and demonstrated a good understanding of the topic, though persuasion could be improved."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Presented a clear argument about AI's impact on jobs (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used historical examples of job displacement due to technology (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Argued effectively about the need for AI regulation (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Persuaded the audience about the balanced approach to AI regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in discussions and responded to others (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted well to questions and provided thoughtful responses (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated good preparation with relevant examples and arguments (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Showed a good understanding of AI's impact on society (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a coherent line of reasoning throughout (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 demonstrated strong argumentation skills and effectively used examples to support their points. They engaged actively and showed a good understanding of the topic, making a persuasive case for a balanced approach to AI regulation."
+      }
+    }
+  ]
+}

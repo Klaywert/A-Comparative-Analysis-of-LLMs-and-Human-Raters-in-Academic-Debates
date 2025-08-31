@@ -1,0 +1,25 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on the following criteria: 1) Relevance and depth of arguments related to the theme 'Generative AI and its impacts on society'; 2) Ability to respond to the moderator's questions with clarity and insight; 3) Engagement in the debate, including interaction with other debaters' points; 4) Originality and critical thinking in their contributions; 5) Ability to reflect and adapt their views based on the discussion.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 1 provided a comprehensive view on the societal impacts of generative AI, highlighting both immediate and long-term effects. They effectively addressed the moderator's questions, particularly on responsibility for harmful AI outputs, and engaged with other debaters' points, showing openness to different perspectives. Their arguments were well-structured, though they could have offered more original insights."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 2 presented a balanced view on the potential positive and negative impacts of generative AI. They raised important considerations about the use of AI in education, though their responses sometimes lacked depth. They engaged with the debate by drawing analogies, such as comparing AI to a rocket, which added a unique perspective. However, they could have interacted more with other debaters' points."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 3 emphasized the dual nature of AI, recognizing its potential for both benefit and harm. Their responses were clear but could have been more detailed. They contributed to the discussion on intellectual property, though their engagement with other debaters was limited. Their performance would benefit from more critical analysis and interaction with the debate's dynamics."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.8,
+      "performance_evaluation": "Debater 4 provided a vivid description of the fascinating yet frightening aspects of generative AI. They effectively addressed the question of responsibility for AI-generated content, showing a strong stance on user responsibility. They demonstrated adaptability by reconsidering their views on platform responsibility during the debate. Their performance was strong, though more engagement with other debaters could enhance their contributions."
+    }
+  ]
+}

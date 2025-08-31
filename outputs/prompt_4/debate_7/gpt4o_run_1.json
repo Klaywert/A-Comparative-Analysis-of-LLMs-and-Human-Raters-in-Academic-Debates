@@ -1,0 +1,252 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 0,
+          "occurrences": [
+            "Initial statement was somewhat disorganized and repetitive (0)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of deep fakes to illustrate potential issues with generative AI (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argued that developers should be responsible for harmful AI outputs, but struggled to defend the position when questioned (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Agreed with others without adding new persuasive elements (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion by agreeing with others and adding comments (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": -1,
+          "occurrences": [
+            "Struggled to respond to a counter-question effectively (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Did not demonstrate significant preparation or research (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": [
+            "Showed basic understanding of the topic but lacked depth (0)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 0,
+          "occurrences": [
+            "Arguments were somewhat coherent but lacked a strong logical flow (0)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed some understanding of the topic and used relevant examples, but struggled with organization and adaptability. The performance was generally neutral with room for improvement in argumentation and preparation."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Presented a clear and structured argument about the dual nature of AI (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used examples of education and productivity to illustrate points (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Provided a balanced view on the use of AI in education (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Effectively communicated the need for balance in AI regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in discussions and asked questions (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to questions and comments from others (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated some preparation by discussing various aspects of AI use (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed a good understanding of the topic, especially in educational contexts (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a consistent line of reasoning throughout the debate (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 demonstrated a good understanding of the topic with clear and structured arguments. The debater was actively engaged and responsive, showing a balanced perspective on AI's impact."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Provided a clear argument about the pros and cons of AI (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used examples related to education and employment (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Presented logical arguments about intellectual property and AI (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Did not employ strong persuasive techniques (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged with other debaters and responded to questions (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted to questions and provided thoughtful responses (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Showed basic preparation but lacked depth in some areas (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a reasonable understanding of the topic (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in arguments (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided clear and logical arguments with relevant examples. The debater was engaged and responsive, showing a reasonable understanding of the topic, though there was room for more persuasive techniques."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Expressed agreement with others clearly and added own points (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used examples related to employment and AI's impact on artists (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Argued for shared responsibility in AI content generation (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": [
+            "Did not employ strong persuasive techniques (0)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated actively in discussions (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted to the flow of discussion and responded to questions (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 0,
+          "occurrences": [
+            "Showed basic preparation but lacked depth in some areas (0)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a reasonable understanding of the topic (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in arguments (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 was clear and engaged, providing relevant examples and arguments. The debater showed a reasonable understanding of the topic but could benefit from stronger persuasive techniques."
+      }
+    }
+  ]
+}

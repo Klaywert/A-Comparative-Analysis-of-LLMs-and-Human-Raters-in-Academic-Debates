@@ -1,0 +1,255 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Presented a clear opening statement about the pertinence of the topic (+2)",
+            "Provided a structured response to the question about responsibility in AI-generated content (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of mass layoffs in tech companies to illustrate immediate impacts of AI (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Presented a logical argument about the need to rethink societal models in response to AI (+2)",
+            "Provided a reasoned response about platform responsibility in AI content dissemination (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Spoke with conviction about the need for AI regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 3,
+          "occurrences": [
+            "Actively participated in the open question discussion (+1)",
+            "Engaged in a constructive exchange about platform responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted well to the question about AI responsibility, considering multiple variables (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Referenced supporting texts and examples, showing good preparation (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated understanding of AI impacts across various sectors (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a consistent line of reasoning throughout the debate (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a strong understanding of the topic, using relevant examples and maintaining clarity and coherence in their arguments. They engaged actively and adapted well to questions, showing good preparation and mastery of the subject."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Opening statement was somewhat disjointed but conveyed the main idea (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Provided a general example of commercial gains and social drawbacks (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Presented a balanced view on AI's dual impacts, though lacking depth (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a neutral tone, which was somewhat persuasive (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated in the open question discussion (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded to the question about AI in education with a nuanced view (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated basic preparation with general knowledge of the topic (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed a basic understanding of AI's societal impacts (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a generally coherent argument throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided a balanced perspective on the topic, though their arguments lacked depth and specificity. They engaged in the discussion and showed a basic understanding of the subject, with room for improvement in clarity and preparation."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Delivered a clear statement on the importance of AI discussion (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used a general example of data usage in AI (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Provided a logical argument about intellectual property in AI (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a calm and reasoned tone, which was somewhat persuasive (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged in the discussion about platform responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded adequately to the question about intellectual property (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Showed basic preparation with general knowledge of the topic (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's societal impacts (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained a coherent argument throughout the debate (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided clear and logical arguments, particularly on intellectual property issues. They engaged well in discussions and maintained coherence, though their preparation and depth of knowledge could be improved."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Opening statement was somewhat scattered but conveyed the main idea (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of resurrecting deceased individuals to illustrate AI's capabilities (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Presented a basic argument about AI's dual nature (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a cautious tone, which was somewhat persuasive (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged in the discussion about platform responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded adequately to the question about AI content dissemination (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated basic preparation with general knowledge of the topic (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed a basic understanding of AI's societal impacts (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a generally coherent argument throughout (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 used vivid examples to illustrate points and engaged actively in discussions. Their arguments were basic but coherent, with room for improvement in clarity and depth of knowledge."
+      }
+    }
+  ]
+}

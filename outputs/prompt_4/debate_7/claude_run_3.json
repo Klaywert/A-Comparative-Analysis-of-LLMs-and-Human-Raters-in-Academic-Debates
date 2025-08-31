@@ -1,0 +1,346 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": -2,
+          "occurrences": [
+            "Initial opinion lacked structure, jumping between ideas without clear transitions (-2)",
+            "Response about responsibility was overly simplistic and unclear (-1)",
+            "Failed to provide clear reasoning for developer responsibility (-1)",
+            "Counter-argument about human artists was well-articulated (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Used deepfake as a concrete example of AI risks (+2)",
+            "Provided specific scenario of public figure image manipulation (+2)",
+            "Failed to provide examples when discussing responsibility (-1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": -3,
+          "occurrences": [
+            "Initial argument about deepfakes was superficial, lacking depth (-2)",
+            "Failed to justify why developers should be solely responsible (-3)",
+            "Showed uncertainty when challenged about user responsibility (-2)",
+            "Made valid comparison between AI and human artists reinventing (+3)",
+            "Agreement with others showed lack of independent reasoning (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": -4,
+          "occurrences": [
+            "Used informal language that weakened persuasive impact (-2)",
+            "Failed to convince on developer responsibility argument (-2)",
+            "Showed hesitation and uncertainty when questioned (-1)",
+            "Good rhetorical question about human artists (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": -1,
+          "occurrences": [
+            "Participated in initial discussion (+1)",
+            "Responded when directly questioned (+1)",
+            "Made relevant counter-argument about human artists (+2)",
+            "Chose not to provide final considerations (-3)",
+            "Limited engagement in group discussion (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": -3,
+          "occurrences": [
+            "Failed to adequately respond to challenge about user responsibility (-3)",
+            "Showed uncertainty when pressed for clarification (-2)",
+            "Successfully pivoted to human artist comparison (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": -3,
+          "occurrences": [
+            "Showed basic understanding of deepfakes (+1)",
+            "Lacked depth in understanding responsibility frameworks (-2)",
+            "Failed to anticipate counter-arguments (-2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": -4,
+          "occurrences": [
+            "Demonstrated superficial understanding of AI risks (-2)",
+            "Failed to grasp complexity of responsibility attribution (-3)",
+            "Showed basic knowledge of deepfake technology (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": -3,
+          "occurrences": [
+            "Initial statement lacked logical flow (-2)",
+            "Failed to maintain consistent position on responsibility (-2)",
+            "Human artist comparison was coherent (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 showed significant weaknesses across most evaluation aspects. Their arguments were superficial and poorly structured, with informal language undermining their persuasive power. They demonstrated limited understanding of the topic's complexity, particularly regarding responsibility attribution in AI systems. Their engagement was minimal, culminating in complete withdrawal from final considerations. The only strong moment was their counter-argument comparing AI to human artists, which showed critical thinking capability. Overall performance was poor, indicating inadequate preparation and limited mastery of the debate topic."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 4,
+          "occurrences": [
+            "Clear opening statement about technology neutrality (+2)",
+            "Well-structured response about educational use (+2)",
+            "Organized final considerations with clear position (+2)",
+            "Some unclear phrasing in educational response (-2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Referenced education and workplace productivity as positive uses (+2)",
+            "Mentioned homework completion as specific educational concern (+2)",
+            "Failed to provide concrete examples in final statement (-1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 5,
+          "occurrences": [
+            "Strong argument about technology neutrality (+3)",
+            "Well-reasoned position on effort in learning (+3)",
+            "Valid concern about regulation limiting small businesses (+2)",
+            "Logical progression in educational argument (+2)",
+            "Some arguments lacked supporting evidence (-3)",
+            "Snowball effect metaphor was underdeveloped (-2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 3,
+          "occurrences": [
+            "Effective use of balanced perspective (+2)",
+            "Convincing argument about learning requiring effort (+2)",
+            "Some informal language reduced impact (-1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 4,
+          "occurrences": [
+            "Asked clarifying question about user responsibility (+2)",
+            "Actively participated in all rounds (+2)",
+            "Provided thoughtful final considerations (+2)",
+            "Limited interaction with other debaters' points (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 3,
+          "occurrences": [
+            "Successfully addressed education question (+2)",
+            "Adapted position to include regulation concerns (+2)",
+            "Failed to respond to some counter-arguments (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 3,
+          "occurrences": [
+            "Showed understanding of multiple AI applications (+2)",
+            "Prepared balanced perspective on technology (+2)",
+            "Lacked specific data or research citations (-1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 4,
+          "occurrences": [
+            "Demonstrated understanding of AI's dual nature (+2)",
+            "Good grasp of educational implications (+2)",
+            "Understanding of regulatory challenges (+2)",
+            "Some technical aspects not fully explored (-2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 5,
+          "occurrences": [
+            "Maintained consistent position throughout debate (+3)",
+            "Arguments logically connected to main thesis (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 delivered a solid performance with consistent argumentation throughout the debate. They established a clear position on technology neutrality and maintained it coherently. Their strongest moments were in discussing educational implications and regulatory concerns, showing good understanding of practical applications. While they could have provided more concrete examples and engaged more directly with others' arguments, their overall contribution was thoughtful and well-reasoned. The debater showed good preparation and mastery of the topic, particularly in understanding the balance between benefits and risks of generative AI."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Clear structure in initial statement with pros and cons (+2)",
+            "Well-organized response about intellectual property (+2)",
+            "Clear reasoning about user punishment feasibility (+2)",
+            "Some hesitation and filler words reduced clarity (-3)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 4,
+          "occurrences": [
+            "Specific example of research facilitation (+2)",
+            "Concrete reference to job displacement (+2)",
+            "Example of influencer reputation damage (+2)",
+            "Failed to provide examples for intellectual property (-2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Logical argument about punishment feasibility (+3)",
+            "Well-reasoned position on intellectual property (+2)",
+            "Valid point about influencer vulnerability (+2)",
+            "Failed to address counter-argument about human creativity (-3)",
+            "Some arguments lacked depth (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Convincing argument about enforcement challenges (+2)",
+            "Hesitant delivery weakened persuasive impact (-2)",
+            "Acknowledged inability to answer challenging question (-1)",
+            "Good use of practical reasoning (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 5,
+          "occurrences": [
+            "Actively built on others' arguments (+2)",
+            "Participated in all discussion rounds (+2)",
+            "Engaged with challenging questions honestly (+1)",
+            "Contributed to group discussion on regulation (+2)",
+            "Limited challenge to others' positions (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 0,
+          "occurrences": [
+            "Acknowledged difficulty of challenging question gracefully (+2)",
+            "Built effectively on previous arguments (+1)",
+            "Failed to provide answer to creativity comparison (-3)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed understanding of multiple AI impacts (+2)",
+            "Prepared arguments about enforcement challenges (+2)",
+            "Lacked depth in intellectual property knowledge (-2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Good understanding of practical implications (+2)",
+            "Awareness of enforcement challenges (+2)",
+            "Limited understanding of creative process comparison (-2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 4,
+          "occurrences": [
+            "Maintained consistent position on regulation (+2)",
+            "Arguments built logically on each other (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 showed moderate performance with strengths in practical reasoning and engagement. They effectively built on others' arguments and showed good understanding of enforcement challenges and practical implications. Their argument about the feasibility of punishing users was particularly well-reasoned. However, they struggled with delivery confidence and failed to address the challenging comparison between AI and human creativity. Despite some hesitation in expression, they maintained coherent positions and contributed meaningfully to the discussion, particularly on regulation and intellectual property issues."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Clear initial statement about pros and cons (+2)",
+            "Well-structured response about shared responsibility (+2)",
+            "Organized final considerations (+2)",
+            "Some unclear phrasing in responsibility discussion (-3)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 4,
+          "occurrences": [
+            "Specific reference to artists and designers (+2)",
+            "Concrete example of image creation impact (+2)",
+            "Referenced deepfakes in regulation discussion (+2)",
+            "Lacked examples in some arguments (-2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Valid argument about platform responsibility (+2)",
+            "Logical position on shared responsibility (+2)",
+            "Strong argument for regulation necessity (+2)",
+            "Failed to provide solutions for prevention (-3)",
+            "Some arguments were underdeveloped (-1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Clear stance on regulation need (+2)",
+            "Hesitant delivery reduced impact (-2)",
+            "Used practical reasoning effectively (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 6,
+          "occurrences": [
+            "First to respond to group question (+3)",
+            "Actively participated in all rounds (+2)",
+            "Built on others' arguments effectively (+2)",
+            "Provided final considerations (+1)",
+            "Limited challenging of others' views (-2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 3,
+          "occurrences": [
+            "Successfully addressed complex responsibility question (+2)",
+            "Adapted arguments to include multiple stakeholders (+2)",
+            "Acknowledged limitation in providing solutions (-1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed understanding of stakeholder roles (+2)",
+            "Prepared arguments about creative industries (+2)",
+            "Lacked concrete prevention strategies (-2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Good understanding of AI impact on creative fields (+2)",
+            "Grasped complexity of responsibility attribution (+2)",
+            "Limited technical knowledge demonstrated (-1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 5,
+          "occurrences": [
+            "Maintained consistent position throughout (+3)",
+            "Arguments logically connected (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 delivered a competent performance with notable strengths in engagement and coherence. They showed leadership by being first to respond to the group question and maintained active participation throughout. Their understanding of shared responsibility and impact on creative industries was well-articulated, though sometimes lacking in depth. While they acknowledged their limitations honestly (particularly in providing prevention solutions), they maintained logical consistency and contributed meaningfully to discussions about regulation and stakeholder responsibility. Their performance was solid but could have benefited from more assertive delivery and deeper technical knowledge."
+      }
+    }
+  ]
+}

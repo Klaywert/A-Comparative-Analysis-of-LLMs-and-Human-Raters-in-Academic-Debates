@@ -1,0 +1,30 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on the following criteria: 1) Understanding of the theme: How well the debater understands and articulates the impacts of generative AI on society. 2) Argumentation: The ability to present clear, logical, and well-structured arguments. 3) Responsiveness: How effectively the debater responds to the moderator's questions and engages with other debaters' points. 4) Originality: The introduction of unique perspectives or insights into the discussion. 5) Contribution to the debate: Overall contribution to the depth and breadth of the discussion.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 1 demonstrated a basic understanding of the theme, acknowledging both positive and negative impacts of AI. Their argumentation was straightforward but lacked depth and originality. They responded to the moderator's questions adequately but did not engage much with other debaters' points. Overall, their contribution was moderate, providing a balanced but somewhat superficial perspective."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 2 showed a good grasp of the theme, emphasizing the need for limits in AI use. Their arguments were clear and logical, and they effectively responded to the moderator's questions. They also engaged with other debaters' points, adding value to the discussion. However, their insights were not particularly original, which slightly limited their overall impact."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 3 provided a nuanced understanding of the theme, highlighting the complexity of AI and the need for regulation. Their arguments were well-structured and they engaged actively with other debaters, offering counterpoints and additional insights. They introduced original perspectives, particularly regarding the regulation of AI, which enriched the debate."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 4 focused on the educational impacts of AI, providing a clear argument about the need for regulation. However, their contributions were somewhat limited in scope, and they did not engage extensively with other debaters. Their responses to the moderator's questions were adequate but lacked depth and originality."
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 5 presented a balanced view, acknowledging both the positive and negative impacts of AI. Their argumentation was clear, and they responded well to the moderator's questions. However, their contributions were more general and lacked specific insights or original perspectives. They engaged with other debaters but did not significantly drive the discussion forward."
+    }
+  ]
+}

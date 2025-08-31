@@ -1,0 +1,250 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Initial statement was clear and concise (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Referenced a Netflix documentary to support argument (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Provided a logical argument about the responsibility of developers (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 0,
+          "occurrences": []
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Engaged in the discussion by responding to other debaters (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted argument based on other debaters' points (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated some preparation by referencing external sources (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 0,
+          "occurrences": []
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained a consistent line of reasoning (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated a clear and organized approach, using examples to support arguments. While the engagement and adaptability were positive, there was room for improvement in persuasion and mastery of the topic."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Provided a structured argument about the use of AI in education (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used examples from gaming to illustrate points (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Presented a logical argument about the impact of AI on society (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used persuasive language to discuss the ethical implications of AI (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively participated in the discussion (+1)",
+            "Responded to other debaters' points (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted arguments based on the flow of the debate (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated preparation by referencing specific examples (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Showed understanding of AI's impact on various sectors (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in arguments (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 effectively used examples and maintained engagement throughout the debate. The arguments were logical and coherent, though there was potential for stronger persuasion and deeper mastery of the topic."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Presented a well-structured argument about AI as a tool (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used historical examples to support arguments (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Provided a strong, logical argument about AI's societal impact (+3)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Used rhetorical techniques effectively (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged actively with other debaters (+1)",
+            "Responded to questions and comments effectively (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted arguments based on new information (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated thorough preparation with detailed arguments (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Showed deep understanding of AI and its implications (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 3,
+          "occurrences": [
+            "Maintained a consistent and logical flow throughout (+3)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 excelled in argumentation and coherence, using examples and rhetorical techniques effectively. The debater demonstrated strong engagement and adaptability, with a deep understanding of the topic."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 1,
+          "occurrences": [
+            "Provided a clear argument about the ethical use of AI (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used a recent example of AI-generated music (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 1,
+          "occurrences": [
+            "Presented a logical argument about AI's role in society (+1)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used persuasive language to discuss AI's future impact (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Participated in the discussion and responded to others (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted arguments based on the discussion flow (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Showed some preparation with relevant examples (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated understanding of AI's ethical implications (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 1,
+          "occurrences": [
+            "Maintained coherence in arguments (+1)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided clear and logical arguments with relevant examples. While the engagement and adaptability were positive, there was room for improvement in persuasion and deeper mastery of the topic."
+      }
+    }
+  ]
+}

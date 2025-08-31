@@ -1,0 +1,94 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 7.8,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.8,
+        "engagement": 8.0,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 presented a balanced view on the impacts of AI, acknowledging both positive and negative aspects. The arguments were clear but lacked depth and specific examples. The debater engaged well with the questions and provided coherent responses, showing a good understanding of the topic. However, the argumentation could be strengthened with more detailed examples and evidence."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 7.5,
+      "scores": {
+        "organization_and_clarity": 7.0,
+        "use_of_examples": 6.5,
+        "argumentation": 7.5,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.0,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.0,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided a clear stance on the need for limits in AI use, but the arguments were somewhat repetitive and lacked specific examples. The debater engaged actively in the discussion and responded to questions, showing a reasonable understanding of the topic. However, the arguments could benefit from more structured organization and the inclusion of concrete examples to enhance persuasion."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 8.0,
+      "scores": {
+        "organization_and_clarity": 8.0,
+        "use_of_examples": 7.5,
+        "argumentation": 8.5,
+        "persuasion": 8.0,
+        "engagement": 8.2,
+        "adaptability": 8.0,
+        "preparation": 8.5,
+        "mastery_of_the_topic": 8.0,
+        "coherence": 8.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 demonstrated strong argumentation skills, presenting well-reasoned points and engaging effectively with the questions. The debater showed a good understanding of the complexities of AI, using relevant examples to support arguments. The responses were coherent and well-organized, indicating thorough preparation and mastery of the topic."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 7.7,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.8,
+        "engagement": 7.5,
+        "adaptability": 7.5,
+        "preparation": 8.0,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 8.0
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided a balanced view on AI's impact, particularly in education. The arguments were clear but could be enhanced with more specific examples. The debater engaged well with the discussion and demonstrated a good understanding of the topic. The responses were coherent, but the argumentation could be strengthened with more detailed evidence."
+      }
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.6,
+      "scores": {
+        "organization_and_clarity": 7.5,
+        "use_of_examples": 7.0,
+        "argumentation": 7.5,
+        "persuasion": 7.5,
+        "engagement": 7.8,
+        "adaptability": 7.5,
+        "preparation": 7.5,
+        "mastery_of_the_topic": 7.5,
+        "coherence": 7.5
+      },
+      "performance": {
+        "performance_analysis": "Debater 5 discussed the potential for AI to both create and destroy jobs, presenting a balanced view. The arguments were clear but lacked depth and specific examples. The debater engaged actively in the discussion and showed a reasonable understanding of the topic. However, the argumentation could be improved with more structured organization and the inclusion of concrete examples."
+      }
+    }
+  ]
+}

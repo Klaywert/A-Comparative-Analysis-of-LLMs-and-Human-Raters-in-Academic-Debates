@@ -1,0 +1,30 @@
+{
+  "evaluation_criteria": "The evaluation of each debater is based on their understanding and articulation of the theme 'Generative AI and its impacts on society.' The criteria include: 1) Depth of Insight: How well the debater understands the nuances of generative AI and its societal impacts. 2) Relevance: The relevance of their arguments to the theme and questions posed by the moderator. 3) Engagement: Their ability to engage with other debaters' points and the moderator's questions. 4) Clarity: The clarity and coherence of their arguments. 5) Responsiveness: How well they respond to the moderator's questions and other debaters' comments.",
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 1 demonstrated a good understanding of the potential benefits and risks of generative AI, emphasizing the need for careful regulation. They engaged well with the moderator's questions and other debaters' comments, showing openness to different perspectives. However, their arguments could have been more structured and detailed in some areas."
+    },
+    {
+      "name": "Debater 2",
+      "overall_score": 8.5,
+      "performance_evaluation": "Debater 2 provided insightful points on the potential benefits of AI in education and the importance of regulation. They effectively engaged with other debaters and provided clear, relevant responses to the moderator's questions. Their arguments were well-articulated, though they could have explored some points in greater depth."
+    },
+    {
+      "name": "Debater 3",
+      "overall_score": 7.5,
+      "performance_evaluation": "Debater 3 offered a positive outlook on the creative potential of generative AI, while acknowledging its risks. They engaged with the discussion but sometimes lacked depth in their responses. Their points were relevant but could have been more thoroughly developed."
+    },
+    {
+      "name": "Debater 4",
+      "overall_score": 8.0,
+      "performance_evaluation": "Debater 4 focused on the importance of regulation and the ethical implications of AI. They provided clear and relevant arguments, engaging well with other debaters. Their points were insightful, though they could have provided more concrete examples to support their arguments."
+    },
+    {
+      "name": "Debater 5",
+      "overall_score": 7.0,
+      "performance_evaluation": "Debater 5 highlighted the dual nature of AI as both beneficial and potentially harmful. They engaged with the discussion but their arguments were sometimes less structured and lacked depth. They could have provided more detailed responses to the moderator's questions."
+    }
+  ]
+}

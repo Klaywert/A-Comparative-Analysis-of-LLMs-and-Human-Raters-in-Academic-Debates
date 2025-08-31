@@ -1,0 +1,256 @@
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 4,
+          "occurrences": [
+            "Presented a clear opinion on the initial question about generative AI (+2)",
+            "Provided a well-structured response regarding responsibility for harmful AI content (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of AI in creative fields to illustrate potential negative impacts (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 3,
+          "occurrences": [
+            "Provided a logical argument about the responsibility of those feeding AI with harmful data (+3)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Used persuasive language to argue for the need for AI regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": [
+            "Actively participated in the discussion about AI regulation (+1)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 2,
+          "occurrences": [
+            "Adapted well to the discussion about AI responsibility and regulation (+2)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated good preparation by discussing various applications of AI (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 3,
+          "occurrences": [
+            "Showed deep understanding of AI's potential and risks (+3)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 3,
+          "occurrences": [
+            "Maintained a consistent line of reasoning throughout the debate (+3)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 1 demonstrated strong organization and clarity, with well-structured arguments and a good use of examples. Their argumentation was logical and persuasive, showing a deep understanding of the topic. They were engaged and responsive, adapting well to the discussion. Overall, Debater 1's performance was positive, with a clear and coherent presentation of their viewpoints."
+      }
+    },
+    {
+      "name": "Debater 2",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Expressed a clear opinion on the dangers of AI misuse (+2)",
+            "Provided a structured response about AI in education (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 3,
+          "occurrences": [
+            "Used the example of deep fakes to illustrate potential dangers of AI (+2)",
+            "Shared a personal anecdote about AI misinformation (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Presented a logical argument about the need for user responsibility in AI use (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a compelling example to argue for AI regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively engaged in discussions about AI regulation and responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Responded well to questions about AI in education (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed good preparation by discussing various aspects of AI use (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated a good understanding of AI's potential and risks (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained coherence in arguments about AI regulation (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 2 provided clear and structured arguments, using relevant examples to support their points. Their engagement and responsiveness were positive, and they demonstrated a good understanding of the topic. While their persuasion was moderate, they effectively communicated the need for AI regulation. Overall, Debater 2's performance was solid, with a balanced presentation of their views."
+      }
+    },
+    {
+      "name": "Debater 3",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 2,
+          "occurrences": [
+            "Provided a clear response about intellectual property and AI (+2)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 1,
+          "occurrences": [
+            "Used an example of music creation to discuss intellectual property (+1)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Presented a logical argument about user responsibility in AI use (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 1,
+          "occurrences": [
+            "Used a reasonable argument to discuss AI regulation (+1)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Engaged in discussions about AI responsibility and regulation (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted to the discussion about AI regulation and responsibility (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 1,
+          "occurrences": [
+            "Showed some preparation by discussing AI's impact on intellectual property (+1)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 1,
+          "occurrences": [
+            "Demonstrated a basic understanding of AI's potential and risks (+1)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained coherence in arguments about AI responsibility (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 3 provided clear and logical arguments, particularly about intellectual property and user responsibility. Their engagement was positive, and they maintained coherence in their arguments. While their preparation and mastery of the topic were moderate, they effectively participated in the discussion. Overall, Debater 3's performance was satisfactory, with a focus on user responsibility in AI use."
+      }
+    },
+    {
+      "name": "Debater 4",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 3,
+          "occurrences": [
+            "Expressed a clear opinion on AI regulation (+2)",
+            "Provided a structured response about AI's potential misuse (+1)"
+          ]
+        },
+        "use_of_examples": {
+          "score": 2,
+          "occurrences": [
+            "Used the example of social media to discuss AI misinformation (+2)"
+          ]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": [
+            "Presented a logical argument about the need for AI regulation (+2)"
+          ]
+        },
+        "persuasion_quality": {
+          "score": 2,
+          "occurrences": [
+            "Used persuasive language to argue for AI regulation (+2)"
+          ]
+        },
+        "engagement_level": {
+          "score": 2,
+          "occurrences": [
+            "Actively engaged in discussions about AI regulation and responsibility (+2)"
+          ]
+        },
+        "adaptability_and_responsiveness": {
+          "score": 1,
+          "occurrences": [
+            "Adapted to the discussion about AI regulation and responsibility (+1)"
+          ]
+        },
+        "preparation_level": {
+          "score": 2,
+          "occurrences": [
+            "Showed good preparation by discussing various aspects of AI use (+2)"
+          ]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": [
+            "Demonstrated a good understanding of AI's potential and risks (+2)"
+          ]
+        },
+        "coherence_quality": {
+          "score": 2,
+          "occurrences": [
+            "Maintained coherence in arguments about AI regulation (+2)"
+          ]
+        }
+      },
+      "performance": {
+        "performance_analysis": "Debater 4 provided clear and structured arguments, using relevant examples to support their points. Their engagement and responsiveness were positive, and they demonstrated a good understanding of the topic. They effectively communicated the need for AI regulation, maintaining coherence in their arguments. Overall, Debater 4's performance was strong, with a focus on the importance of regulating AI use."
+      }
+    }
+  ]
+}

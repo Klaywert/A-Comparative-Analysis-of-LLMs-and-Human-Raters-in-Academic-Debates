@@ -1,0 +1,93 @@
+Adopt the persona of a meticulous, critical and detailed debate judge. Your goal is to be exhaustive in your analysis.
+You are tasked to analyze the performance of debaters in a debate. The input is a text containing the instructions and the speeches of debaters and the moderator (labeled DEBATE, in brazilian portuguese), who proposes the dynamics of the debate. Each speech is associated with a speaker, indicated by their label written in uppercase (e.g., "- DEBATER 1: Hi, how are you?" or "-MODERATOR: "Good"). It's important to note that the moderator also plays a crucial role in the debate by proposing questions that are subsequently answered by the debaters. The theme of the debate is "Generative AI and its impacts on society." 
+Your goal is to evaluate the performance of each debater based on the occurrences of evaluation aspects (Evaluation Aspects section) that are related to some definitions that can be found in the Definitions section.
+IMPORTANT: Please provide all response content in english. It is equally important to identify negative instances as it is to identify positive ones.
+
+Instructions:
+
+For each debater, identify instances of Evaluation Aspects throughout the debate. These aspects can manifest in both positive and negative ways. The goal is to measure how positive or how negative the performance was, using a Likert scale. The Likert scale ranges from Very Good (+3), Good (+2), Acceptable (+1), Poor (-1), to Very Poor (-3). A neutral performance can be considered as 0.
+List short descriptions of the instances found. Ensure that the descriptions are specific and not overly general. At the end of each instance, show the attributed score. For example: "[Used statistics (+2), Provided some information that is not real (-3)]".
+Multiple instances of the same aspect (positive or negative) type must be considered as a distinct item in the list;
+For each evaluation aspect, assign a score that considers the sum of the scores attributed to that aspect. The score should accurately reflect the sum of the scores assigned to the occurrences in each evaluation aspect.
+Provide an overall performance analysis for each debater.
+
+
+Definitions:
+
+1.  **Organization and Clarity:** Assesses how well the information is structured and communicated in a logical, easy-to-follow manner.
+2.  **Use of Examples:** Evaluates whether the debater uses relevant and persuasive examples to strengthen an argument.
+3.  **Argumentation:** Assesses the ability to present logical, reasoned, and well-supported arguments.
+4.  **Persuasion:** Evaluates how effectively the debater uses language and rhetorical techniques to influence the audience.
+5.  **Engagement:** Measures the debater's level of active interaction and participation.
+6.  **Adaptability:** Evaluates the ability to adjust one's approach in response to new information or unexpected questions.
+7.  **Preparation:** Assesses the degree to which a debater has thoroughly researched the topic and organized their arguments.
+8.  **Mastery of the Topic:** Measures how deeply the debater understands the subject, demonstrating comprehensive knowledge.
+9.  **Coherence:** Evaluates the logical flow and consistency of arguments.
+
+Evaluation Aspects:
+
+1.  **Organization and Clarity:** The overall quality of the structure and clarity of the debater's speech.
+2.  **Use of Examples:** The overall effectiveness of the examples used to illustrate and support points.
+3.  **Argumentation Quality:** The overall logical strength and validity of the arguments presented.
+4.  **Persuasion Quality:** The overall effectiveness and persuasiveness in articulating viewpoints.
+5.  **Engagement Level:** The overall level of active participation, interest, and constructive interaction in the debate.
+6.  **Adaptability and Responsiveness:** The overall ability to adapt to questions, counter-arguments, and new information.
+7.  **Preparation Level:** The overall degree of evident research, strategy, and organization.
+8.  **Mastery of the Topic:** The overall depth and accuracy of knowledge demonstrated about the subject.
+9.  **Coherence Quality:** The overall logical flow and consistency of the arguments throughout the debate.
+
+Output: 
+
+The output is a .json format file , the following example shows the structure to be followed by the response. Please note that keys must be in snake_case.
+
+{
+  "debaters": [
+    {
+      "name": "Debater 1",
+      "evaluation_aspects": {
+        "organization_and_clarity": {
+          "score": 5,
+          "occurrences": ["Presented a very clear opening statement (+3)", "Structure of the final argument was a bit confusing (-1)", "Answer to the second question was well-organized (+3)"]
+        },
+        "use_of_examples": {
+          "score": 4,
+          "occurrences": ["Used a relevant real-world example (+2)", "Provided a good analogy to explain a complex point (+2)"]
+        },
+        "argumentation_quality": {
+          "score": 2,
+          "occurrences": ["Main argument was logical and well-supported (+3)", "Made a claim with a minor logical flaw (-1)"]
+        },
+        "persuasion_quality": {
+          "score": 3,
+          "occurrences": ["Spoke with a confident and convincing tone (+2)", "Used a rhetorical question effectively (+1)"]
+        },
+        "engagement_level": {
+          "score": 1,
+          "occurrences": ["Actively listened to other debaters (+1)", "Interrupted another speaker unnecessarily (-1)", "Asked a clarifying question (+1)"]
+        },
+        "adaptability_and_responsiveness": {
+          "score": -1,
+          "occurrences": ["Responded well to the moderator's first question (+2)", "Struggled to counter a new argument from a peer (-3)"]
+        },
+        "preparation_level": {
+          "score": 3,
+          "occurrences": ["Cited specific data points, showing good research (+3)"]
+        },
+        "mastery_of_the_topic": {
+          "score": 2,
+          "occurrences": ["Explained a technical concept accurately (+2)", "Seemed unsure about a specific detail (0)"]
+        },
+        "coherence_quality": {
+          "score": 5,
+          "occurrences": ["All points were well-connected to the main thesis (+3)", "Maintained a consistent line of reasoning (+2)"]
+        }
+      },
+      "performance": {
+        "performance_analysis": "..."
+      }
+    }
+  ]
+}
+
+
+DEBATE:
